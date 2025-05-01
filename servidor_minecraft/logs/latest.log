@@ -163,3 +163,18 @@
 [01May2025 16:51:25.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: The player idle timeout is now 120 minute(s)]
 [01May2025 16:51:34.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: The player idle timeout is now 360 minute(s)]
 [01May2025 16:52:40.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Stone Age]
+[01May2025 16:54:23.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Getting an Upgrade]
+[01May2025 16:56:51.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Sweet Dreams]
+[01May2025 17:00:34.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Disconnected
+[01May2025 17:00:34.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[01May2025 17:00:43.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01May2025 17:00:43.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01May2025 17:00:43.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01May2025 17:00:43.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01May2025 17:00:44.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01May2025 17:00:46.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01May2025 17:00:46.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01May2025 17:00:46.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01May2025 17:00:46.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01May2025 17:00:46.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01May2025 17:00:46.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
