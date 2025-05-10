@@ -4,5 +4,11 @@
     "name": "kamushkarkir",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5c163b9e-26d1-3bd9-a134-a7a3db5f6f81",
+    "name": "LFCR",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
