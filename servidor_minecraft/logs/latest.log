@@ -959,3 +959,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14May2025 03:06:51.969] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
 [14May2025 03:31:13.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Acquire Hardware]
 [14May2025 03:32:16.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Suit Up]
+[14May2025 03:36:04.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Knowledge of Death]
+[14May2025 03:36:04.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Ashes 'n Bones]
+[14May2025 03:42:55.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Timed out
+[14May2025 03:42:55.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[14May2025 03:43:38.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:58606] logged in with entity id 20653 at (565.8362807929693, 98.17675927506424, 1314.822762527535)
+[14May2025 03:43:38.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
+[14May2025 03:43:40.919] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
