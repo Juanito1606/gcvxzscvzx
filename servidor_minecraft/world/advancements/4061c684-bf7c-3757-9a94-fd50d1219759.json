@@ -351,6 +351,7 @@
       "cooked_porkchop": "2025-05-14 03:34:35 +0000",
       "cooked_mutton": "2025-05-14 03:27:38 +0000",
       "sweet_berries": "2025-05-14 02:54:54 +0000",
+      "baked_potato": "2025-05-14 04:12:16 +0000",
       "mushroom_stew": "2025-05-14 03:09:23 +0000"
     },
     "done": false
@@ -423,6 +424,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-14 04:11:13 +0000",
       "minecraft:creeper": "2025-05-14 03:39:16 +0000",
       "minecraft:stray": "2025-05-14 03:51:41 +0000",
       "minecraft:zombie": "2025-05-14 02:56:42 +0000"
@@ -1288,9 +1290,27 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-14 04:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-14 04:07:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-05-14 03:44:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-14 04:07:20 +0000"
     },
     "done": true
   },
@@ -1306,9 +1326,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-14 04:02:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-05-14 04:10:34 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_chest": "2025-05-14 03:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-14 04:07:20 +0000"
     },
     "done": true
   },

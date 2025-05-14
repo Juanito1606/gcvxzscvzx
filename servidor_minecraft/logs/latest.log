@@ -966,3 +966,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14May2025 03:43:38.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:58606] logged in with entity id 20653 at (565.8362807929693, 98.17675927506424, 1314.822762527535)
 [14May2025 03:43:38.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
 [14May2025 03:43:40.919] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
+[14May2025 03:59:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Gave 1 [Apple] to kamushkarkir]
+[14May2025 03:59:17.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Gave 1 [Hay Bale] to kamushkarkir]
+[14May2025 03:59:51.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Gave 1 [Fermented Spider Eye] to kamushkarkir]
+[14May2025 04:01:35.322] [Worker-Main-18/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[14May2025 04:02:07.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Best Friends Forever]
+[14May2025 04:03:06.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of kamushkarkir) moved wrongly! 0.2506806899237972
+[14May2025 04:03:06.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of kamushkarkir) moved wrongly! 0.6673512801197603
+[14May2025 04:03:06.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of kamushkarkir) moved wrongly! 1.0861128353553795
+[14May2025 04:03:06.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of kamushkarkir) moved wrongly! 1.5061786023752575
+[14May2025 04:05:55.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kamushkarkir) moved wrongly! 0.270432505984445
+[14May2025 04:05:55.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kamushkarkir) moved wrongly! 0.5578533801560752
+[14May2025 04:05:55.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kamushkarkir) moved wrongly! 0.7116465593712746
+[14May2025 04:05:55.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kamushkarkir) moved wrongly! 0.7939382232641492
+[14May2025 04:11:06.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Not Today, Thank You]
