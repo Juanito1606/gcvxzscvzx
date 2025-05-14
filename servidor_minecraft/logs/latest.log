@@ -875,3 +875,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14May2025 22:47:22.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:57380] logged in with entity id 8126 at (1742.3348640419251, 46.0, 783.9343453668452)
 [14May2025 22:47:22.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
 [14May2025 22:47:24.816] [Netty Epoll Server IO #2/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
+[14May2025 23:19:04.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir was kicked for floating too long!
+[14May2025 23:19:04.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Flying is not enabled on this server
+[14May2025 23:19:04.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
