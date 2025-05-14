@@ -947,3 +947,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14May2025 02:49:05.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Stone Age]
 [14May2025 02:49:46.187] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
 [14May2025 02:49:54.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Getting an Upgrade]
+[14May2025 02:56:42.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Monster Hunter]
+[14May2025 02:59:30.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Sweet Dreams]
+[14May2025 03:05:20.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [Half a flight]
+[14May2025 03:06:44.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir was kicked for floating too long!
+[14May2025 03:06:44.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Flying is not enabled on this server
+[14May2025 03:06:44.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[14May2025 03:06:44.491] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14May2025 03:06:51.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:56713] logged in with entity id 5730 at (211.78079470511466, 64.16610926093821, -87.76591489882136)
+[14May2025 03:06:51.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
+[14May2025 03:06:51.969] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
+[14May2025 03:31:13.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Acquire Hardware]
+[14May2025 03:32:16.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Suit Up]
