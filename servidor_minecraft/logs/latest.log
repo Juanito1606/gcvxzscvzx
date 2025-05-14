@@ -878,3 +878,40 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14May2025 23:19:04.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir was kicked for floating too long!
 [14May2025 23:19:04.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Flying is not enabled on this server
 [14May2025 23:19:04.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[14May2025 23:19:46.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:57660] logged in with entity id 13355 at (1818.7549383579044, 63.024424088213685, 765.2201233755493)
+[14May2025 23:19:46.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
+[14May2025 23:19:50.959] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
+[14May2025 23:21:26.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved too quickly! -7.118728592805837,-0.11584063815757872,-7.526818768213616
+[14May2025 23:28:55.773] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[14May2025 23:30:37.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.9954861832127335
+[14May2025 23:30:37.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 2.1556350184557687
+[14May2025 23:30:37.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 3.339169163205497
+[14May2025 23:30:37.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 4.544767695785822
+[14May2025 23:30:37.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.8012378963728679
+[14May2025 23:30:37.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.7681958564551223
+[14May2025 23:30:37.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.7398664029624342
+[14May2025 23:30:37.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.7155882483873484
+[14May2025 23:30:37.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.6954817608932444
+[14May2025 23:30:49.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.30990701975792945
+[14May2025 23:30:49.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.8998098212198329
+[14May2025 23:30:49.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 1.4805960115779726
+[14May2025 23:30:49.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 2.051440604755271
+[14May2025 23:30:54.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 1.8673805849975906,0.0,10.35650685045357
+[14May2025 23:30:54.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.0848312835041725,0.0,11.874098319630093
+[14May2025 23:30:54.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.293169786675662,0.0,13.401053375295987
+[14May2025 23:30:54.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.4933826749866057,0.0,14.937272971950051
+[14May2025 23:30:54.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.686419303125149,0.0,16.48264223811202
+[14May2025 23:30:54.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.873195963391936,0.0,18.03703213022004
+[14May2025 23:30:54.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 3.0545961951420395,0.0,19.600300580340672
+[14May2025 23:30:54.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 3.2314749562247016,0.0,21.172293710329086
+[14May2025 23:30:54.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 3.4046512429958966,0.0,22.752846664080153
+[14May2025 23:30:54.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 1.9351110486923062,0.0,15.493423010497736
+[14May2025 23:30:55.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.103216954950767,0.0,17.09056281158837
+[14May2025 23:30:55.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.269896640425486,0.0,18.695712974623575
+[14May2025 23:31:08.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.33580978497684555
+[14May2025 23:31:08.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.8363547195708634
+[14May2025 23:31:08.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 1.3316471346465732
+[14May2025 23:31:08.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 1.8641838845128405
+[14May2025 23:36:30.499] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[14May2025 23:36:30.721] [Worker-Main-25/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[14May2025 23:48:57.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Where Is The Stone Pen?]
