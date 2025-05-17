@@ -858,6 +858,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_stables": "2025-05-14 03:28:39 +0000",
+      "entered_ice_pit": "2025-05-17 16:15:53 +0000",
       "entered_watch_tower": "2025-05-14 03:23:15 +0000",
       "entered_ruined_building": "2025-05-17 15:51:46 +0000"
     },
@@ -2450,6 +2451,30 @@
   "dungeons_arise:find_wishing_well": {
     "criteria": {
       "location0": "2025-05-17 15:44:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_ice_pit": "2025-05-17 16:15:53 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:chilled_halls": {
+    "criteria": {
+      "entered_ice_pit": "2025-05-17 16:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-17 16:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-17 16:21:06 +0000"
     },
     "done": true
   },
