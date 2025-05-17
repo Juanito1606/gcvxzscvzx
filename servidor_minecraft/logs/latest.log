@@ -1,34 +1,34 @@
-[14May2025 21:58:42.747] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[14May2025 21:58:42.751] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[14May2025 21:58:43.263] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[14May2025 21:58:43.305] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/gcvxzscvzx/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[14May2025 21:58:43.719] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[14May2025 21:58:43.720] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14May2025 21:58:43.721] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14May2025 21:58:43.723] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14May2025 21:58:44.003] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[14May2025 21:58:44.005] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
-[14May2025 21:58:46.366] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[14May2025 21:58:46.741] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[14May2025 21:58:46.742] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[14May2025 21:58:46.743] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[14May2025 21:58:46.747] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[14May2025 21:58:46.760] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[14May2025 21:58:46.900] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.1+mc1.20.1: 83 options available, 0 override(s) found
-[14May2025 21:58:46.901] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[14May2025 21:58:46.919] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[14May2025 21:58:47.037] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
-[14May2025 21:58:47.040] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
-[14May2025 21:58:47.496] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
-[14May2025 21:58:47.500] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
-[14May2025 21:58:47.502] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
-[14May2025 21:58:47.504] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
-[14May2025 21:58:47.505] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
-[14May2025 21:58:47.507] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
-[14May2025 21:58:47.509] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
-[14May2025 21:58:47.511] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
-[14May2025 21:58:47.535] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 132 options available, 0 override(s) found
-[14May2025 21:58:47.681] [main/INFO] [Puzzles Lib/]: Loading 87 mods:
+[17May2025 15:14:50.693] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[17May2025 15:14:50.698] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[17May2025 15:14:52.035] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[17May2025 15:14:52.106] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/gcvxzscvzx/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[17May2025 15:14:52.471] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[17May2025 15:14:52.472] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17May2025 15:14:52.473] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17May2025 15:14:52.474] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17May2025 15:14:52.707] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[17May2025 15:14:52.709] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[17May2025 15:14:54.996] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17May2025 15:14:55.218] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[17May2025 15:14:55.219] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[17May2025 15:14:55.220] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[17May2025 15:14:55.224] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[17May2025 15:14:55.240] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[17May2025 15:14:55.366] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.1+mc1.20.1: 83 options available, 0 override(s) found
+[17May2025 15:14:55.367] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[17May2025 15:14:55.384] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[17May2025 15:14:55.506] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[17May2025 15:14:55.509] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[17May2025 15:14:55.880] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
+[17May2025 15:14:55.883] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
+[17May2025 15:14:55.885] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
+[17May2025 15:14:55.887] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
+[17May2025 15:14:55.888] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
+[17May2025 15:14:55.889] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
+[17May2025 15:14:55.891] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
+[17May2025 15:14:55.893] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
+[17May2025 15:14:55.923] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 132 options available, 0 override(s) found
+[17May2025 15:14:56.063] [main/INFO] [Puzzles Lib/]: Loading 87 mods:
 	- ambientsounds 6.1.10
 	- appleskin 2.5.1+mc1.20.1
 	- architectury 9.2.14
@@ -117,45 +117,45 @@
 	- travelersbackpack 9.1.14
 	- waystones 14.1.3
 	- yungsapi 1.20-Forge-4.0.5
-[14May2025 21:58:47.706] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[14May2025 21:58:49.587] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[14May2025 21:58:49.587] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[14May2025 21:58:49.588] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[14May2025 21:58:49.588] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[14May2025 21:58:49.589] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[14May2025 21:58:49.589] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[14May2025 21:58:49.590] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[14May2025 21:58:49.591] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[14May2025 21:58:49.783] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[14May2025 21:58:50.332] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.657 s after launch)
-[14May2025 21:58:50.471] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[14May2025 21:58:50.472] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[14May2025 21:58:50.581] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[14May2025 21:58:50.582] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[14May2025 21:58:51.877] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1539 milliseconds
-[14May2025 21:58:54.763] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[14May2025 21:58:54.767] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[14May2025 21:58:54.819] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[14May2025 21:58:54.841] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[14May2025 21:58:54.866] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
-[14May2025 21:58:54.881] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
-[14May2025 21:58:54.885] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
-[14May2025 21:58:54.886] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
-[14May2025 21:58:54.997] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[14May2025 21:58:55.045] [modloading-worker-0/INFO] [fastconfigapi/]: FastConfigAPI has been initialized!
-[14May2025 21:58:55.065] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[14May2025 21:58:55.066] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[14May2025 21:58:55.066] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[14May2025 21:58:55.066] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[14May2025 21:58:55.067] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[14May2025 21:58:55.068] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[14May2025 21:58:55.068] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[14May2025 21:58:55.334] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[14May2025 21:58:55.334] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[14May2025 21:58:55.438] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[14May2025 21:58:55.439] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[14May2025 21:58:55.460] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[14May2025 21:58:55.461] [modloading-worker-0/ERROR] [Embeddium/]: Failed to update fingerprint
+[17May2025 15:14:56.089] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[17May2025 15:14:57.878] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[17May2025 15:14:57.879] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[17May2025 15:14:57.880] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[17May2025 15:14:57.881] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[17May2025 15:14:57.881] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[17May2025 15:14:57.881] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[17May2025 15:14:57.883] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[17May2025 15:14:57.883] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[17May2025 15:14:58.035] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17May2025 15:14:58.610] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (10.52 s after launch)
+[17May2025 15:14:58.735] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[17May2025 15:14:58.736] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[17May2025 15:14:58.843] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[17May2025 15:14:58.844] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[17May2025 15:15:00.623] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2009 milliseconds
+[17May2025 15:15:03.371] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[17May2025 15:15:03.370] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[17May2025 15:15:03.378] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[17May2025 15:15:03.392] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[17May2025 15:15:03.423] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
+[17May2025 15:15:03.434] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
+[17May2025 15:15:03.435] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
+[17May2025 15:15:03.436] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
+[17May2025 15:15:03.541] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[17May2025 15:15:03.546] [modloading-worker-0/INFO] [fastconfigapi/]: FastConfigAPI has been initialized!
+[17May2025 15:15:03.584] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[17May2025 15:15:03.586] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[17May2025 15:15:03.586] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[17May2025 15:15:03.586] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[17May2025 15:15:03.586] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[17May2025 15:15:03.587] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[17May2025 15:15:03.587] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[17May2025 15:15:03.779] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[17May2025 15:15:03.781] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[17May2025 15:15:03.872] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[17May2025 15:15:03.873] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[17May2025 15:15:03.888] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[17May2025 15:15:03.888] [modloading-worker-0/ERROR] [Embeddium/]: Failed to update fingerprint
 java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
 	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
@@ -184,71 +184,35 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[14May2025 21:58:55.766] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
-[14May2025 21:58:55.766] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
-[14May2025 21:58:55.766] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
-[14May2025 21:58:55.805] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.80.
-[14May2025 21:58:55.969] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[14May2025 21:58:55.972] [modloading-worker-0/INFO] [labellingcontainers/]: Initializing mod...
-[14May2025 21:58:55.999] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id labellingcontainers:request_taggable_blocks_config_packet
-[14May2025 21:58:56.000] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id labellingcontainers:label_printer_save_packet
-[14May2025 21:58:56.002] [modloading-worker-0/WARN] [labellingcontainers/]: Could not run Client Setup (mod is probably running on a Server-Only instance)
-[14May2025 21:58:56.013] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[14May2025 21:58:56.016] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[14May2025 21:58:56.034] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[14May2025 21:58:56.042] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
-[14May2025 21:58:56.050] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
-[14May2025 21:58:56.050] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
-[14May2025 21:58:56.050] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
-[14May2025 21:58:56.094] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[14May2025 21:58:58.094] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[14May2025 21:58:58.102] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[14May2025 21:58:58.105] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[14May2025 21:58:58.107] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[14May2025 21:58:58.403] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/gcvxzscvzx/servidor_minecraft/config/carryon-common.toml is not correct. Correcting
-[14May2025 21:58:58.403] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14May2025 21:58:58.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.maxDistance was corrected from null to its default, 2.5. 
-[14May2025 21:58:58.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.maxEntityWidth was corrected from null to its default, 1.5. 
-[14May2025 21:58:58.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.maxEntityHeight was corrected from null to its default, 2.5. 
-[14May2025 21:58:58.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.blockSlownessMultiplier was corrected from null to its default, 1.0. 
-[14May2025 21:58:58.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.entitySlownessMultiplier was corrected from null to its default, 1.0. 
-[14May2025 21:58:58.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.maxEntityStackLimit was corrected from null to its default, 10. 
-[14May2025 21:58:58.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.heavyTiles was corrected from null to its default, true. 
-[14May2025 21:58:58.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.pickupAllBlocks was corrected from null to its default, false. 
-[14May2025 21:58:58.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.slownessInCreative was corrected from null to its default, true. 
-[14May2025 21:58:58.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.pickupHostileMobs was corrected from null to its default, false. 
-[14May2025 21:58:58.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.heavyEntities was corrected from null to its default, true. 
-[14May2025 21:58:58.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.allowBabies was corrected from null to its default, false. 
-[14May2025 21:58:58.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.useWhitelistBlocks was corrected from null to its default, false. 
-[14May2025 21:58:58.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.useWhitelistEntities was corrected from null to its default, false. 
-[14May2025 21:58:58.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.useWhitelistStacking was corrected from null to its default, false. 
-[14May2025 21:58:58.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.hitWhileCarrying was corrected from null to its default, false. 
-[14May2025 21:58:58.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.dropCarriedWhenHit was corrected from null to its default, false. 
-[14May2025 21:58:58.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.useScripts was corrected from null to its default, false. 
-[14May2025 21:58:58.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.stackableEntities was corrected from null to its default, true. 
-[14May2025 21:58:58.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.entitySizeMattersStacking was corrected from null to its default, true. 
-[14May2025 21:58:58.407] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.placementStateExceptions was corrected from null to its default, [minecraft:chest[type], minecraft:stone_button[face], minecraft:vine[north,east,south,west,up], minecraft:creeper_head[rotation], minecraft:glow_lichen[north,east,south,west,up,down], minecraft:oak_sign[rotation], minecraft:oak_trapdoor[half]]. 
-[14May2025 21:58:58.407] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.pickupPlayers was corrected from null to its default, true. 
-[14May2025 21:58:58.407] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.pickupUnbreakableBlocks was corrected from null to its default, false. 
-[14May2025 21:58:58.408] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key whitelist was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14May2025 21:58:58.408] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key whitelist.allowedEntities was corrected from null to its default, []. 
-[14May2025 21:58:58.408] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key whitelist.allowedBlocks was corrected from null to its default, []. 
-[14May2025 21:58:58.408] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key whitelist.allowedStacking was corrected from null to its default, []. 
-[14May2025 21:58:58.409] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklist was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14May2025 21:58:58.409] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklist.forbiddenTiles was corrected from null to its default, [#forge:immovable, #forge:relocation_not_supported, minecraft:end_portal, minecraft:piston_head, minecraft:end_gateway, minecraft:tall_grass, minecraft:large_fern, minecraft:peony, minecraft:rose_bush, minecraft:lilac, minecraft:sunflower, minecraft:*_bed, minecraft:*_door, minecraft:big_dripleaf_stem, minecraft:waterlily, minecraft:cake, minecraft:nether_portal, minecraft:tall_seagrass, animania:block_trough, animania:block_invisiblock, colossalchests:*, ic2:*, bigreactors:*, forestry:*, tconstruct:*, rustic:*, botania:*, astralsorcery:*, quark:colored_bed_*, immersiveengineering:*, embers:block_furnace, embers:ember_bore, embers:ember_activator, embers:mixer, embers:heat_coil, embers:large_tank, embers:crystal_cell, embers:alchemy_pedestal, embers:boiler, embers:combustor, embers:catalzyer, embers:field_chart, embers:inferno_forge, storagedrawers:framingtable, skyresources:*, lootbags:*, exsartagine:*, aquamunda:tank, opencomputers:*, malisisdoors:*, industrialforegoing:*, minecolonies:*, thaumcraft:pillar*, thaumcraft:infernal_furnace, thaumcraft:placeholder*, thaumcraft:infusion_matrix, thaumcraft:golem_builder, thaumcraft:thaumatorium*, magneticraft:oil_heater, magneticraft:solar_panel, magneticraft:steam_engine, magneticraft:shelving_unit, magneticraft:grinder, magneticraft:sieve, magneticraft:solar_tower, magneticraft:solar_mirror, magneticraft:container, magneticraft:pumpjack, magneticraft:solar_panel, magneticraft:refinery, magneticraft:oil_heater, magneticraft:hydraulic_press, magneticraft:multiblock_gap, refinedstorage:*, mcmultipart:*, enderstorage:*, betterstorage:*, practicallogistics2:*, wearablebackpacks:*, rftools:screen, rftools:creative_screen, create:*, magic_doorknob:*, iceandfire:*, ftbquests:*, waystones:*, contact:*, framedblocks:*, securitycraft:*, forgemultipartcbe:*, integrateddynamics:cable, mekanismgenerators:wind_generator, cookingforblockheads:cabinet, cookingforblockheads:corner, cookingforblockheads:counter, cookingforblockheads:oven, cookingforblockheads:toaster, cookingforblockheads:milk_jar, cookingforblockheads:cow_jar, cookingforblockheads:fruit_basket, cookingforblockheads:cooking_table, cookingforblockheads:fridge, cookingforblockheads:sink, powah:*, advancementtrophies:trophy, mekanismgenerators:heat_generator, mna:filler_block]. 
-[14May2025 21:58:58.410] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklist.forbiddenEntities was corrected from null to its default, [minecraft:end_crystal, minecraft:ender_dragon, minecraft:ghast, minecraft:shulker, minecraft:leash_knot, minecraft:armor_stand, minecraft:item_frame, minecraft:painting, minecraft:shulker_bullet, animania:hamster, animania:ferret*, animania:hedgehog*, animania:cart, animania:wagon, mynko:*, pixelmon:*, mocreatures:*, quark:totem, vehicle:*, securitycraft:*, taterzens:npc, easy_npc:*, bodiesbodies:dead_body]. 
-[14May2025 21:58:58.410] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklist.forbiddenStacking was corrected from null to its default, [minecraft:horse]. 
-[14May2025 21:58:58.411] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key customPickupConditions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14May2025 21:58:58.411] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key customPickupConditions.customPickupConditionsBlocks was corrected from null to its default, []. 
-[14May2025 21:58:58.411] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key customPickupConditions.customPickupConditionsEntities was corrected from null to its default, []. 
-[14May2025 21:58:58.620] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[14May2025 21:58:58.631] [modloading-worker-0/INFO] [com.dragonfight.DragonfightMod/]: dragonfight mod initialized
-[14May2025 21:58:58.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[14May2025 21:58:58.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[14May2025 21:58:58.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[14May2025 21:58:58.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[14May2025 21:58:58.819] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[14May2025 21:58:58.996] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[17May2025 15:15:04.029] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
+[17May2025 15:15:04.029] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
+[17May2025 15:15:04.030] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
+[17May2025 15:15:04.055] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.80.
+[17May2025 15:15:04.245] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[17May2025 15:15:04.249] [modloading-worker-0/INFO] [labellingcontainers/]: Initializing mod...
+[17May2025 15:15:04.270] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[17May2025 15:15:04.288] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id labellingcontainers:request_taggable_blocks_config_packet
+[17May2025 15:15:04.289] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id labellingcontainers:label_printer_save_packet
+[17May2025 15:15:04.293] [modloading-worker-0/WARN] [labellingcontainers/]: Could not run Client Setup (mod is probably running on a Server-Only instance)
+[17May2025 15:15:04.302] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
+[17May2025 15:15:04.309] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
+[17May2025 15:15:04.309] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
+[17May2025 15:15:04.309] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
+[17May2025 15:15:04.329] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[17May2025 15:15:04.395] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[17May2025 15:15:04.396] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[17May2025 15:15:06.455] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[17May2025 15:15:06.466] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[17May2025 15:15:06.469] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[17May2025 15:15:06.472] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[17May2025 15:15:06.956] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[17May2025 15:15:06.965] [modloading-worker-0/INFO] [com.dragonfight.DragonfightMod/]: dragonfight mod initialized
+[17May2025 15:15:07.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[17May2025 15:15:07.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[17May2025 15:15:07.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[17May2025 15:15:07.171] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[17May2025 15:15:07.171] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[17May2025 15:15:07.398] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -263,23 +227,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[14May2025 21:58:58.997] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://update.maxhenkel.de/forge/reap
-[14May2025 21:58:59.062] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[14May2025 21:58:59.062] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[14May2025 21:58:59.062] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[14May2025 21:58:59.062] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[14May2025 21:58:59.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: OUTDATED Current: 1.20.1-1.1.0 Target: 1.20.1-1.1.2
-[14May2025 21:58:59.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[14May2025 21:58:59.518] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[14May2025 21:58:59.519] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[14May2025 21:58:59.911] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[14May2025 21:58:59.911] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
-[14May2025 21:59:00.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
-[14May2025 21:59:00.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[14May2025 21:59:00.060] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
-[14May2025 21:59:00.060] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
-[14May2025 21:59:00.086] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14May2025 21:59:00.087] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[17May2025 15:15:07.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://update.maxhenkel.de/forge/reap
+[17May2025 15:15:07.451] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[17May2025 15:15:07.451] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[17May2025 15:15:07.452] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[17May2025 15:15:07.452] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[17May2025 15:15:07.910] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[17May2025 15:15:07.914] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[17May2025 15:15:07.986] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: OUTDATED Current: 1.20.1-1.1.0 Target: 1.20.1-1.1.2
+[17May2025 15:15:07.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[17May2025 15:15:08.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[17May2025 15:15:08.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
+[17May2025 15:15:08.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[17May2025 15:15:08.428] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[17May2025 15:15:08.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
+[17May2025 15:15:08.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[17May2025 15:15:08.486] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17May2025 15:15:08.491] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -294,512 +258,37 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[14May2025 21:59:00.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[14May2025 21:59:00.176] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[14May2025 21:59:00.191] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[14May2025 21:59:00.191] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
-[14May2025 21:59:00.281] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: extra_ropes:rope Expected: 1003 Got: 1175
-[14May2025 21:59:00.281] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: extra_ropes:cobweb_rope Expected: 1004 Got: 1176
-[14May2025 21:59:00.281] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: extra_ropes:nether_rope Expected: 1005 Got: 1177
-[14May2025 21:59:00.281] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: extra_ropes:rope_coil Expected: 1006 Got: 1178
-[14May2025 21:59:00.283] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: extra_ropes:rope Expected: 1255 Got: 1532
-[14May2025 21:59:00.283] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: extra_ropes:cobweb_rope Expected: 1256 Got: 1533
-[14May2025 21:59:00.283] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: extra_ropes:plant_fiber Expected: 1257 Got: 1534
-[14May2025 21:59:00.283] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: extra_ropes:dried_plant_fiber Expected: 1258 Got: 1535
-[14May2025 21:59:00.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: extra_ropes:knife Expected: 1259 Got: 1536
-[14May2025 21:59:00.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: extra_ropes:nether_rope Expected: 1260 Got: 1537
-[14May2025 21:59:00.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: extra_ropes:rope_coil Expected: 1261 Got: 1538
-[14May2025 21:59:00.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: extra_ropes:throwable_rope Expected: 1262 Got: 1539
-[14May2025 21:59:00.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:armet Expected: 1537 Got: 1540
-[14May2025 21:59:00.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:knight_chestplate Expected: 1538 Got: 1541
-[14May2025 21:59:00.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:knight_leggings Expected: 1539 Got: 1542
-[14May2025 21:59:00.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:knight_boots Expected: 1540 Got: 1543
-[14May2025 21:59:00.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stechhelm Expected: 1541 Got: 1544
-[14May2025 21:59:00.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:jousting_chestplate Expected: 1542 Got: 1545
-[14May2025 21:59:00.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:jousting_leggings Expected: 1543 Got: 1546
-[14May2025 21:59:00.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:jousting_boots Expected: 1544 Got: 1547
-[14May2025 21:59:00.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:sallet Expected: 1545 Got: 1548
-[14May2025 21:59:00.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gothic_chestplate Expected: 1546 Got: 1549
-[14May2025 21:59:00.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gothic_leggings Expected: 1547 Got: 1550
-[14May2025 21:59:00.285] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gothic_boots Expected: 1548 Got: 1551
-[14May2025 21:59:00.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:maximilian_helmet Expected: 1549 Got: 1552
-[14May2025 21:59:00.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:maximilian_chestplate Expected: 1550 Got: 1553
-[14May2025 21:59:00.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:maximilian_leggings Expected: 1551 Got: 1554
-[14May2025 21:59:00.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:maximilian_boots Expected: 1552 Got: 1555
-[14May2025 21:59:00.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:chainmail_helmet Expected: 1553 Got: 1556
-[14May2025 21:59:00.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:chainmail_chestplate Expected: 1554 Got: 1557
-[14May2025 21:59:00.286] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:chainmail_leggings Expected: 1555 Got: 1558
-[14May2025 21:59:00.287] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:chainmail_boots Expected: 1556 Got: 1559
-[14May2025 21:59:00.287] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:kettlehat Expected: 1557 Got: 1560
-[14May2025 21:59:00.287] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:platemail_chestplate Expected: 1558 Got: 1561
-[14May2025 21:59:00.287] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:platemail_leggings Expected: 1559 Got: 1562
-[14May2025 21:59:00.287] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:platemail_boots Expected: 1560 Got: 1563
-[14May2025 21:59:00.287] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:barbute Expected: 1561 Got: 1564
-[14May2025 21:59:00.287] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:halfarmor_chestplate Expected: 1562 Got: 1565
-[14May2025 21:59:00.287] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:greathelm Expected: 1563 Got: 1566
-[14May2025 21:59:00.287] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:crusader_chestplate Expected: 1564 Got: 1567
-[14May2025 21:59:00.288] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:crusader_leggings Expected: 1565 Got: 1568
-[14May2025 21:59:00.288] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:crusader_boots Expected: 1566 Got: 1569
-[14May2025 21:59:00.288] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:ceremonialarmet Expected: 1567 Got: 1570
-[14May2025 21:59:00.288] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:ceremonial_chestplate Expected: 1568 Got: 1571
-[14May2025 21:59:00.288] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:ceremonial_boots Expected: 1569 Got: 1572
-[14May2025 21:59:00.288] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:coif Expected: 1570 Got: 1573
-[14May2025 21:59:00.288] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gambeson_chestplate Expected: 1571 Got: 1574
-[14May2025 21:59:00.288] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:pantyhose Expected: 1572 Got: 1575
-[14May2025 21:59:00.289] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gambeson_boots Expected: 1573 Got: 1576
-[14May2025 21:59:00.289] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:brigandine_chestplate Expected: 1574 Got: 1577
-[14May2025 21:59:00.289] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:norman_helmet Expected: 1575 Got: 1578
-[14May2025 21:59:00.289] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:shishak Expected: 1576 Got: 1579
-[14May2025 21:59:00.289] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rustedbarbute Expected: 1577 Got: 1580
-[14May2025 21:59:00.289] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rustedhalfarmor_chestplate Expected: 1578 Got: 1581
-[14May2025 21:59:00.289] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rustedgreathelm Expected: 1579 Got: 1582
-[14May2025 21:59:00.289] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rustedcrusader_chestplate Expected: 1580 Got: 1583
-[14May2025 21:59:00.290] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rustedcrusader_boots Expected: 1581 Got: 1584
-[14May2025 21:59:00.290] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rustednorman_helmet Expected: 1582 Got: 1585
-[14May2025 21:59:00.290] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rustedchainmail_helmet Expected: 1583 Got: 1586
-[14May2025 21:59:00.290] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rustedchainmail_chestplate Expected: 1584 Got: 1587
-[14May2025 21:59:00.290] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rustedchainmail_leggings Expected: 1585 Got: 1588
-[14May2025 21:59:00.290] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rustedchainmail_boots Expected: 1586 Got: 1589
-[14May2025 21:59:00.290] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rustedkettlehat Expected: 1587 Got: 1590
-[14May2025 21:59:00.291] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bascinet Expected: 1588 Got: 1591
-[14May2025 21:59:00.291] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:xivcenturyknight_chestplate Expected: 1589 Got: 1592
-[14May2025 21:59:00.291] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:xivcenturyknight_leggings Expected: 1590 Got: 1593
-[14May2025 21:59:00.291] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:xivcenturyknight_boots Expected: 1591 Got: 1594
-[14May2025 21:59:00.291] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wingedhussar_chestplate Expected: 1592 Got: 1595
-[14May2025 21:59:00.291] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:cuirassier_helmet Expected: 1593 Got: 1596
-[14May2025 21:59:00.291] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:cuirassier_chestplate Expected: 1594 Got: 1597
-[14May2025 21:59:00.291] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:cuirassier_leggings Expected: 1595 Got: 1598
-[14May2025 21:59:00.291] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:cuirassier_boots Expected: 1596 Got: 1599
-[14May2025 21:59:00.292] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:grand_bascinet Expected: 1597 Got: 1600
-[14May2025 21:59:00.292] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:kastenbrust_chestplate Expected: 1598 Got: 1601
-[14May2025 21:59:00.292] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:kastenbrust_leggings Expected: 1599 Got: 1602
-[14May2025 21:59:00.292] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:kastenbrust_boots Expected: 1600 Got: 1603
-[14May2025 21:59:00.292] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:face_helmet Expected: 1601 Got: 1604
-[14May2025 21:59:00.292] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:lamellar_chestplate Expected: 1602 Got: 1605
-[14May2025 21:59:00.292] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:lamellar_boots Expected: 1603 Got: 1606
-[14May2025 21:59:00.292] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:barding Expected: 1604 Got: 1607
-[14May2025 21:59:00.292] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:chainmail_horse_armor Expected: 1605 Got: 1608
-[14May2025 21:59:00.292] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_stylet Expected: 1606 Got: 1609
-[14May2025 21:59:00.292] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_stylet Expected: 1607 Got: 1610
-[14May2025 21:59:00.292] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_stylet Expected: 1608 Got: 1611
-[14May2025 21:59:00.292] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_stylet Expected: 1609 Got: 1612
-[14May2025 21:59:00.293] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_stylet Expected: 1610 Got: 1613
-[14May2025 21:59:00.293] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_stylet Expected: 1611 Got: 1614
-[14May2025 21:59:00.293] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_stylet Expected: 1612 Got: 1615
-[14May2025 21:59:00.293] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_stylet Expected: 1613 Got: 1616
-[14May2025 21:59:00.293] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_stylet Expected: 1614 Got: 1617
-[14May2025 21:59:00.293] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_stylet Expected: 1615 Got: 1618
-[14May2025 21:59:00.293] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_stylet Expected: 1616 Got: 1619
-[14May2025 21:59:00.293] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_shortsword Expected: 1617 Got: 1620
-[14May2025 21:59:00.293] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_shortsword Expected: 1618 Got: 1621
-[14May2025 21:59:00.294] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_shortsword Expected: 1619 Got: 1622
-[14May2025 21:59:00.294] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_shortsword Expected: 1620 Got: 1623
-[14May2025 21:59:00.294] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_shortsword Expected: 1621 Got: 1624
-[14May2025 21:59:00.294] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_shortsword Expected: 1622 Got: 1625
-[14May2025 21:59:00.294] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_shortsword Expected: 1623 Got: 1626
-[14May2025 21:59:00.294] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_shortsword Expected: 1624 Got: 1627
-[14May2025 21:59:00.294] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_shortsword Expected: 1625 Got: 1628
-[14May2025 21:59:00.294] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_shortsword Expected: 1626 Got: 1629
-[14May2025 21:59:00.295] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_shortsword Expected: 1627 Got: 1630
-[14May2025 21:59:00.295] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_katzbalger Expected: 1628 Got: 1631
-[14May2025 21:59:00.295] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_katzbalger Expected: 1629 Got: 1632
-[14May2025 21:59:00.295] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_katzbalger Expected: 1630 Got: 1633
-[14May2025 21:59:00.295] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_katzbalger Expected: 1631 Got: 1634
-[14May2025 21:59:00.295] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_katzbalger Expected: 1632 Got: 1635
-[14May2025 21:59:00.295] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_katzbalger Expected: 1633 Got: 1636
-[14May2025 21:59:00.295] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_katzbalger Expected: 1634 Got: 1637
-[14May2025 21:59:00.296] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_katzbalger Expected: 1635 Got: 1638
-[14May2025 21:59:00.296] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_katzbalger Expected: 1636 Got: 1639
-[14May2025 21:59:00.296] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_katzbalger Expected: 1637 Got: 1640
-[14May2025 21:59:00.296] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_katzbalger Expected: 1638 Got: 1641
-[14May2025 21:59:00.296] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_pike Expected: 1639 Got: 1642
-[14May2025 21:59:00.296] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_pike Expected: 1640 Got: 1643
-[14May2025 21:59:00.296] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_pike Expected: 1641 Got: 1644
-[14May2025 21:59:00.296] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_pike Expected: 1642 Got: 1645
-[14May2025 21:59:00.297] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_pike Expected: 1643 Got: 1646
-[14May2025 21:59:00.297] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_pike Expected: 1644 Got: 1647
-[14May2025 21:59:00.297] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_pike Expected: 1645 Got: 1648
-[14May2025 21:59:00.297] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_pike Expected: 1646 Got: 1649
-[14May2025 21:59:00.297] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_pike Expected: 1647 Got: 1650
-[14May2025 21:59:00.297] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_pike Expected: 1648 Got: 1651
-[14May2025 21:59:00.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 14.0.40 Target: 14.0.57
-[14May2025 21:59:00.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[14May2025 21:59:00.298] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_pike Expected: 1649 Got: 1652
-[14May2025 21:59:00.299] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_ranseur Expected: 1650 Got: 1653
-[14May2025 21:59:00.299] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_ranseur Expected: 1651 Got: 1654
-[14May2025 21:59:00.299] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_ranseur Expected: 1652 Got: 1655
-[14May2025 21:59:00.299] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_ranseur Expected: 1653 Got: 1656
-[14May2025 21:59:00.299] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_ranseur Expected: 1654 Got: 1657
-[14May2025 21:59:00.299] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_ranseur Expected: 1655 Got: 1658
-[14May2025 21:59:00.299] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_ranseur Expected: 1656 Got: 1659
-[14May2025 21:59:00.299] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_ranseur Expected: 1657 Got: 1660
-[14May2025 21:59:00.299] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_ranseur Expected: 1658 Got: 1661
-[14May2025 21:59:00.300] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_ranseur Expected: 1659 Got: 1662
-[14May2025 21:59:00.300] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_ranseur Expected: 1660 Got: 1663
-[14May2025 21:59:00.300] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_ahlspiess Expected: 1661 Got: 1664
-[14May2025 21:59:00.300] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_ahlspiess Expected: 1662 Got: 1665
-[14May2025 21:59:00.300] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_ahlspiess Expected: 1663 Got: 1666
-[14May2025 21:59:00.300] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_ahlspiess Expected: 1664 Got: 1667
-[14May2025 21:59:00.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_ahlspiess Expected: 1665 Got: 1668
-[14May2025 21:59:00.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_ahlspiess Expected: 1666 Got: 1669
-[14May2025 21:59:00.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_ahlspiess Expected: 1667 Got: 1670
-[14May2025 21:59:00.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_ahlspiess Expected: 1668 Got: 1671
-[14May2025 21:59:00.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_ahlspiess Expected: 1669 Got: 1672
-[14May2025 21:59:00.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_ahlspiess Expected: 1670 Got: 1673
-[14May2025 21:59:00.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_ahlspiess Expected: 1671 Got: 1674
-[14May2025 21:59:00.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_chivalrylance Expected: 1672 Got: 1675
-[14May2025 21:59:00.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_chivalrylance Expected: 1673 Got: 1676
-[14May2025 21:59:00.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_chivalrylance Expected: 1674 Got: 1677
-[14May2025 21:59:00.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_chivalrylance Expected: 1675 Got: 1678
-[14May2025 21:59:00.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_chivalrylance Expected: 1676 Got: 1679
-[14May2025 21:59:00.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_chivalrylance Expected: 1677 Got: 1680
-[14May2025 21:59:00.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_chivalrylance Expected: 1678 Got: 1681
-[14May2025 21:59:00.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_chivalrylance Expected: 1679 Got: 1682
-[14May2025 21:59:00.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_chivalrylance Expected: 1680 Got: 1683
-[14May2025 21:59:00.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_chivalrylance Expected: 1681 Got: 1684
-[14May2025 21:59:00.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_chivalrylance Expected: 1682 Got: 1685
-[14May2025 21:59:00.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_bastardsword Expected: 1683 Got: 1686
-[14May2025 21:59:00.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_bastardsword Expected: 1684 Got: 1687
-[14May2025 21:59:00.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_bastardsword Expected: 1685 Got: 1688
-[14May2025 21:59:00.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_bastardsword Expected: 1686 Got: 1689
-[14May2025 21:59:00.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_bastardsword Expected: 1687 Got: 1690
-[14May2025 21:59:00.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_bastardsword Expected: 1688 Got: 1691
-[14May2025 21:59:00.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_bastardsword Expected: 1689 Got: 1692
-[14May2025 21:59:00.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_bastardsword Expected: 1690 Got: 1693
-[14May2025 21:59:00.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_bastardsword Expected: 1691 Got: 1694
-[14May2025 21:59:00.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_bastardsword Expected: 1692 Got: 1695
-[14May2025 21:59:00.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_bastardsword Expected: 1693 Got: 1696
-[14May2025 21:59:00.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_estoc Expected: 1694 Got: 1697
-[14May2025 21:59:00.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_estoc Expected: 1695 Got: 1698
-[14May2025 21:59:00.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_estoc Expected: 1696 Got: 1699
-[14May2025 21:59:00.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_estoc Expected: 1697 Got: 1700
-[14May2025 21:59:00.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_estoc Expected: 1698 Got: 1701
-[14May2025 21:59:00.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_estoc Expected: 1699 Got: 1702
-[14May2025 21:59:00.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_estoc Expected: 1700 Got: 1703
-[14May2025 21:59:00.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_estoc Expected: 1701 Got: 1704
-[14May2025 21:59:00.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_estoc Expected: 1702 Got: 1705
-[14May2025 21:59:00.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_estoc Expected: 1703 Got: 1706
-[14May2025 21:59:00.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_estoc Expected: 1704 Got: 1707
-[14May2025 21:59:00.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_claymore Expected: 1705 Got: 1708
-[14May2025 21:59:00.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_claymore Expected: 1706 Got: 1709
-[14May2025 21:59:00.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_claymore Expected: 1707 Got: 1710
-[14May2025 21:59:00.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_claymore Expected: 1708 Got: 1711
-[14May2025 21:59:00.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_claymore Expected: 1709 Got: 1712
-[14May2025 21:59:00.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_claymore Expected: 1710 Got: 1713
-[14May2025 21:59:00.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_claymore Expected: 1711 Got: 1714
-[14May2025 21:59:00.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_claymore Expected: 1712 Got: 1715
-[14May2025 21:59:00.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_claymore Expected: 1713 Got: 1716
-[14May2025 21:59:00.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_claymore Expected: 1714 Got: 1717
-[14May2025 21:59:00.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_claymore Expected: 1715 Got: 1718
-[14May2025 21:59:00.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_zweihander Expected: 1716 Got: 1719
-[14May2025 21:59:00.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[14May2025 21:59:00.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[14May2025 21:59:00.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_zweihander Expected: 1717 Got: 1720
-[14May2025 21:59:00.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_zweihander Expected: 1718 Got: 1721
-[14May2025 21:59:00.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_zweihander Expected: 1719 Got: 1722
-[14May2025 21:59:00.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_zweihander Expected: 1720 Got: 1723
-[14May2025 21:59:00.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_zweihander Expected: 1721 Got: 1724
-[14May2025 21:59:00.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_zweihander Expected: 1722 Got: 1725
-[14May2025 21:59:00.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_zweihander Expected: 1723 Got: 1726
-[14May2025 21:59:00.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_zweihander Expected: 1724 Got: 1727
-[14May2025 21:59:00.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_zweihander Expected: 1725 Got: 1728
-[14May2025 21:59:00.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_zweihander Expected: 1726 Got: 1729
-[14May2025 21:59:00.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_flamebladedsword Expected: 1727 Got: 1730
-[14May2025 21:59:00.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_flamebladedsword Expected: 1728 Got: 1731
-[14May2025 21:59:00.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_flamebladedsword Expected: 1729 Got: 1732
-[14May2025 21:59:00.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_flamebladedsword Expected: 1730 Got: 1733
-[14May2025 21:59:00.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_flamebladedsword Expected: 1731 Got: 1734
-[14May2025 21:59:00.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_flamebladedsword Expected: 1732 Got: 1735
-[14May2025 21:59:00.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_flamebladedsword Expected: 1733 Got: 1736
-[14May2025 21:59:00.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_flamebladedsword Expected: 1734 Got: 1737
-[14May2025 21:59:00.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_flamebladedsword Expected: 1735 Got: 1738
-[14May2025 21:59:00.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_flamebladedsword Expected: 1736 Got: 1739
-[14May2025 21:59:00.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_flamebladedsword Expected: 1737 Got: 1740
-[14May2025 21:59:00.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_lochaberaxe Expected: 1738 Got: 1741
-[14May2025 21:59:00.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_lochaberaxe Expected: 1739 Got: 1742
-[14May2025 21:59:00.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_lochaberaxe Expected: 1740 Got: 1743
-[14May2025 21:59:00.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_lochaberaxe Expected: 1741 Got: 1744
-[14May2025 21:59:00.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_lochaberaxe Expected: 1742 Got: 1745
-[14May2025 21:59:00.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_lochaberaxe Expected: 1743 Got: 1746
-[14May2025 21:59:00.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_lochaberaxe Expected: 1744 Got: 1747
-[14May2025 21:59:00.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_lochaberaxe Expected: 1745 Got: 1748
-[14May2025 21:59:00.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_lochaberaxe Expected: 1746 Got: 1749
-[14May2025 21:59:00.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_lochaberaxe Expected: 1747 Got: 1750
-[14May2025 21:59:00.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_lochaberaxe Expected: 1748 Got: 1751
-[14May2025 21:59:00.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_concavehalberd Expected: 1749 Got: 1752
-[14May2025 21:59:00.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_concavehalberd Expected: 1750 Got: 1753
-[14May2025 21:59:00.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_concavehalberd Expected: 1751 Got: 1754
-[14May2025 21:59:00.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_concavehalberd Expected: 1752 Got: 1755
-[14May2025 21:59:00.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_concavehalberd Expected: 1753 Got: 1756
-[14May2025 21:59:00.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_concavehalberd Expected: 1754 Got: 1757
-[14May2025 21:59:00.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_concavehalberd Expected: 1755 Got: 1758
-[14May2025 21:59:00.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_concavehalberd Expected: 1756 Got: 1759
-[14May2025 21:59:00.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_concavehalberd Expected: 1757 Got: 1760
-[14May2025 21:59:00.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_concavehalberd Expected: 1758 Got: 1761
-[14May2025 21:59:00.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_concavehalberd Expected: 1759 Got: 1762
-[14May2025 21:59:00.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_heavymace Expected: 1760 Got: 1763
-[14May2025 21:59:00.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_heavymace Expected: 1761 Got: 1764
-[14May2025 21:59:00.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_heavymace Expected: 1762 Got: 1765
-[14May2025 21:59:00.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_heavymace Expected: 1763 Got: 1766
-[14May2025 21:59:00.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_heavymace Expected: 1764 Got: 1767
-[14May2025 21:59:00.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_heavymace Expected: 1765 Got: 1768
-[14May2025 21:59:00.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_heavymace Expected: 1766 Got: 1769
-[14May2025 21:59:00.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_heavymace Expected: 1767 Got: 1770
-[14May2025 21:59:00.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_heavymace Expected: 1768 Got: 1771
-[14May2025 21:59:00.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_heavymace Expected: 1769 Got: 1772
-[14May2025 21:59:00.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_heavymace Expected: 1770 Got: 1773
-[14May2025 21:59:00.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_heavywarhammer Expected: 1771 Got: 1774
-[14May2025 21:59:00.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_heavywarhammer Expected: 1772 Got: 1775
-[14May2025 21:59:00.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_heavywarhammer Expected: 1773 Got: 1776
-[14May2025 21:59:00.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_heavywarhammer Expected: 1774 Got: 1777
-[14May2025 21:59:00.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_heavywarhammer Expected: 1775 Got: 1778
-[14May2025 21:59:00.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_heavywarhammer Expected: 1776 Got: 1779
-[14May2025 21:59:00.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_heavywarhammer Expected: 1777 Got: 1780
-[14May2025 21:59:00.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_heavywarhammer Expected: 1778 Got: 1781
-[14May2025 21:59:00.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_heavywarhammer Expected: 1779 Got: 1782
-[14May2025 21:59:00.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_heavywarhammer Expected: 1780 Got: 1783
-[14May2025 21:59:00.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_heavywarhammer Expected: 1781 Got: 1784
-[14May2025 21:59:00.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_lucernhammer Expected: 1782 Got: 1785
-[14May2025 21:59:00.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_lucernhammer Expected: 1783 Got: 1786
-[14May2025 21:59:00.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_lucernhammer Expected: 1784 Got: 1787
-[14May2025 21:59:00.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_lucernhammer Expected: 1785 Got: 1788
-[14May2025 21:59:00.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_lucernhammer Expected: 1786 Got: 1789
-[14May2025 21:59:00.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_lucernhammer Expected: 1787 Got: 1790
-[14May2025 21:59:00.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_lucernhammer Expected: 1788 Got: 1791
-[14May2025 21:59:00.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_lucernhammer Expected: 1789 Got: 1792
-[14May2025 21:59:00.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_lucernhammer Expected: 1790 Got: 1793
-[14May2025 21:59:00.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_lucernhammer Expected: 1791 Got: 1794
-[14May2025 21:59:00.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_lucernhammer Expected: 1792 Got: 1795
-[14May2025 21:59:00.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_morgenstern Expected: 1793 Got: 1796
-[14May2025 21:59:00.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_morgenstern Expected: 1794 Got: 1797
-[14May2025 21:59:00.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_morgenstern Expected: 1795 Got: 1798
-[14May2025 21:59:00.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_morgenstern Expected: 1796 Got: 1799
-[14May2025 21:59:00.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_morgenstern Expected: 1797 Got: 1800
-[14May2025 21:59:00.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_morgenstern Expected: 1798 Got: 1801
-[14May2025 21:59:00.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_morgenstern Expected: 1799 Got: 1802
-[14May2025 21:59:00.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_morgenstern Expected: 1800 Got: 1803
-[14May2025 21:59:00.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_morgenstern Expected: 1801 Got: 1804
-[14May2025 21:59:00.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_morgenstern Expected: 1802 Got: 1805
-[14May2025 21:59:00.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_morgenstern Expected: 1803 Got: 1806
-[14May2025 21:59:00.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_chainmorgenstern Expected: 1804 Got: 1807
-[14May2025 21:59:00.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_chainmorgenstern Expected: 1805 Got: 1808
-[14May2025 21:59:00.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_chainmorgenstern Expected: 1806 Got: 1809
-[14May2025 21:59:00.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_chainmorgenstern Expected: 1807 Got: 1810
-[14May2025 21:59:00.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_chainmorgenstern Expected: 1808 Got: 1811
-[14May2025 21:59:00.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_chainmorgenstern Expected: 1809 Got: 1812
-[14May2025 21:59:00.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_chainmorgenstern Expected: 1810 Got: 1813
-[14May2025 21:59:00.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_chainmorgenstern Expected: 1811 Got: 1814
-[14May2025 21:59:00.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_chainmorgenstern Expected: 1812 Got: 1815
-[14May2025 21:59:00.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_chainmorgenstern Expected: 1813 Got: 1816
-[14May2025 21:59:00.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_chainmorgenstern Expected: 1814 Got: 1817
-[14May2025 21:59:00.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_guisarme Expected: 1815 Got: 1818
-[14May2025 21:59:00.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_guisarme Expected: 1816 Got: 1819
-[14May2025 21:59:00.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_guisarme Expected: 1817 Got: 1820
-[14May2025 21:59:00.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_guisarme Expected: 1818 Got: 1821
-[14May2025 21:59:00.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_guisarme Expected: 1819 Got: 1822
-[14May2025 21:59:00.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_guisarme Expected: 1820 Got: 1823
-[14May2025 21:59:00.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_guisarme Expected: 1821 Got: 1824
-[14May2025 21:59:00.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_guisarme Expected: 1822 Got: 1825
-[14May2025 21:59:00.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_guisarme Expected: 1823 Got: 1826
-[14May2025 21:59:00.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_guisarme Expected: 1824 Got: 1827
-[14May2025 21:59:00.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_guisarme Expected: 1825 Got: 1828
-[14May2025 21:59:00.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:blacksmith_hammer Expected: 1826 Got: 1829
-[14May2025 21:59:00.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:barbedclub Expected: 1827 Got: 1830
-[14May2025 21:59:00.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:pitchfork Expected: 1828 Got: 1831
-[14May2025 21:59:00.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:noble_sword Expected: 1829 Got: 1832
-[14May2025 21:59:00.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rusted_bastardsword Expected: 1830 Got: 1833
-[14May2025 21:59:00.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rusted_heavymace Expected: 1831 Got: 1834
-[14May2025 21:59:00.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:club Expected: 1832 Got: 1835
-[14May2025 21:59:00.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:messer_sword Expected: 1833 Got: 1836
-[14May2025 21:59:00.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:longbow Expected: 1834 Got: 1837
-[14May2025 21:59:00.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:heavy_crossbow Expected: 1835 Got: 1838
-[14May2025 21:59:00.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_heatershield Expected: 1836 Got: 1839
-[14May2025 21:59:00.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_heatershield Expected: 1837 Got: 1840
-[14May2025 21:59:00.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_heatershield Expected: 1838 Got: 1841
-[14May2025 21:59:00.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_heatershield Expected: 1839 Got: 1842
-[14May2025 21:59:00.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_heatershield Expected: 1840 Got: 1843
-[14May2025 21:59:00.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_heatershield Expected: 1841 Got: 1844
-[14May2025 21:59:00.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_heatershield Expected: 1842 Got: 1845
-[14May2025 21:59:00.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_heatershield Expected: 1843 Got: 1846
-[14May2025 21:59:00.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_heatershield Expected: 1844 Got: 1847
-[14May2025 21:59:00.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_heatershield Expected: 1845 Got: 1848
-[14May2025 21:59:00.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_heatershield Expected: 1846 Got: 1849
-[14May2025 21:59:00.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_target Expected: 1847 Got: 1850
-[14May2025 21:59:00.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_target Expected: 1848 Got: 1851
-[14May2025 21:59:00.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_target Expected: 1849 Got: 1852
-[14May2025 21:59:00.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_target Expected: 1850 Got: 1853
-[14May2025 21:59:00.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_target Expected: 1851 Got: 1854
-[14May2025 21:59:00.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_target Expected: 1852 Got: 1855
-[14May2025 21:59:00.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_target Expected: 1853 Got: 1856
-[14May2025 21:59:00.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_target Expected: 1854 Got: 1857
-[14May2025 21:59:00.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_target Expected: 1855 Got: 1858
-[14May2025 21:59:00.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_target Expected: 1856 Got: 1859
-[14May2025 21:59:00.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_target Expected: 1857 Got: 1860
-[14May2025 21:59:00.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_buckler Expected: 1858 Got: 1861
-[14May2025 21:59:00.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_buckler Expected: 1859 Got: 1862
-[14May2025 21:59:00.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_buckler Expected: 1860 Got: 1863
-[14May2025 21:59:00.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_buckler Expected: 1861 Got: 1864
-[14May2025 21:59:00.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_buckler Expected: 1862 Got: 1865
-[14May2025 21:59:00.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_buckler Expected: 1863 Got: 1866
-[14May2025 21:59:00.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_buckler Expected: 1864 Got: 1867
-[14May2025 21:59:00.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_buckler Expected: 1865 Got: 1868
-[14May2025 21:59:00.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_buckler Expected: 1866 Got: 1869
-[14May2025 21:59:00.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_buckler Expected: 1867 Got: 1870
-[14May2025 21:59:00.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_buckler Expected: 1868 Got: 1871
-[14May2025 21:59:00.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_rondache Expected: 1869 Got: 1872
-[14May2025 21:59:00.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_rondache Expected: 1870 Got: 1873
-[14May2025 21:59:00.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_rondache Expected: 1871 Got: 1874
-[14May2025 21:59:00.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_rondache Expected: 1872 Got: 1875
-[14May2025 21:59:00.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_rondache Expected: 1873 Got: 1876
-[14May2025 21:59:00.326] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_rondache Expected: 1874 Got: 1877
-[14May2025 21:59:00.326] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_rondache Expected: 1875 Got: 1878
-[14May2025 21:59:00.326] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_rondache Expected: 1876 Got: 1879
-[14May2025 21:59:00.326] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_rondache Expected: 1877 Got: 1880
-[14May2025 21:59:00.326] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_rondache Expected: 1878 Got: 1881
-[14May2025 21:59:00.326] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_rondache Expected: 1879 Got: 1882
-[14May2025 21:59:00.326] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_tartsche Expected: 1880 Got: 1883
-[14May2025 21:59:00.326] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_tartsche Expected: 1881 Got: 1884
-[14May2025 21:59:00.326] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_tartsche Expected: 1882 Got: 1885
-[14May2025 21:59:00.327] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_tartsche Expected: 1883 Got: 1886
-[14May2025 21:59:00.327] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_tartsche Expected: 1884 Got: 1887
-[14May2025 21:59:00.327] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_tartsche Expected: 1885 Got: 1888
-[14May2025 21:59:00.327] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_tartsche Expected: 1886 Got: 1889
-[14May2025 21:59:00.327] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_tartsche Expected: 1887 Got: 1890
-[14May2025 21:59:00.327] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_tartsche Expected: 1888 Got: 1891
-[14May2025 21:59:00.327] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_tartsche Expected: 1889 Got: 1892
-[14May2025 21:59:00.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_tartsche Expected: 1890 Got: 1893
-[14May2025 21:59:00.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_ellipticalshield Expected: 1891 Got: 1894
-[14May2025 21:59:00.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_ellipticalshield Expected: 1892 Got: 1895
-[14May2025 21:59:00.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_ellipticalshield Expected: 1893 Got: 1896
-[14May2025 21:59:00.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_ellipticalshield Expected: 1894 Got: 1897
-[14May2025 21:59:00.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_ellipticalshield Expected: 1895 Got: 1898
-[14May2025 21:59:00.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_ellipticalshield Expected: 1896 Got: 1899
-[14May2025 21:59:00.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_ellipticalshield Expected: 1897 Got: 1900
-[14May2025 21:59:00.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_ellipticalshield Expected: 1898 Got: 1901
-[14May2025 21:59:00.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_ellipticalshield Expected: 1899 Got: 1902
-[14May2025 21:59:00.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_ellipticalshield Expected: 1900 Got: 1903
-[14May2025 21:59:00.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_ellipticalshield Expected: 1901 Got: 1904
-[14May2025 21:59:00.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_roundshield Expected: 1902 Got: 1905
-[14May2025 21:59:00.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_roundshield Expected: 1903 Got: 1906
-[14May2025 21:59:00.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_roundshield Expected: 1904 Got: 1907
-[14May2025 21:59:00.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_roundshield Expected: 1905 Got: 1908
-[14May2025 21:59:00.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_roundshield Expected: 1906 Got: 1909
-[14May2025 21:59:00.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_roundshield Expected: 1907 Got: 1910
-[14May2025 21:59:00.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_roundshield Expected: 1908 Got: 1911
-[14May2025 21:59:00.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_roundshield Expected: 1909 Got: 1912
-[14May2025 21:59:00.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_roundshield Expected: 1910 Got: 1913
-[14May2025 21:59:00.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_roundshield Expected: 1911 Got: 1914
-[14May2025 21:59:00.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_roundshield Expected: 1912 Got: 1915
-[14May2025 21:59:00.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_pavese Expected: 1913 Got: 1916
-[14May2025 21:59:00.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_pavese Expected: 1914 Got: 1917
-[14May2025 21:59:00.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_pavese Expected: 1915 Got: 1918
-[14May2025 21:59:00.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_pavese Expected: 1916 Got: 1919
-[14May2025 21:59:00.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_pavese Expected: 1917 Got: 1920
-[14May2025 21:59:00.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_pavese Expected: 1918 Got: 1921
-[14May2025 21:59:00.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_pavese Expected: 1919 Got: 1922
-[14May2025 21:59:00.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_pavese Expected: 1920 Got: 1923
-[14May2025 21:59:00.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_pavese Expected: 1921 Got: 1924
-[14May2025 21:59:00.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_pavese Expected: 1922 Got: 1925
-[14May2025 21:59:00.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_pavese Expected: 1923 Got: 1926
-[14May2025 21:59:00.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:wood_kiteshield Expected: 1924 Got: 1927
-[14May2025 21:59:00.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:stone_kiteshield Expected: 1925 Got: 1928
-[14May2025 21:59:00.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:iron_kiteshield Expected: 1926 Got: 1929
-[14May2025 21:59:00.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gold_kiteshield Expected: 1927 Got: 1930
-[14May2025 21:59:00.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:diamond_kiteshield Expected: 1928 Got: 1931
-[14May2025 21:59:00.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:netherite_kiteshield Expected: 1929 Got: 1932
-[14May2025 21:59:00.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:copper_kiteshield Expected: 1930 Got: 1933
-[14May2025 21:59:00.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_kiteshield Expected: 1931 Got: 1934
-[14May2025 21:59:00.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:silver_kiteshield Expected: 1932 Got: 1935
-[14May2025 21:59:00.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tin_kiteshield Expected: 1933 Got: 1936
-[14May2025 21:59:00.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bronze_kiteshield Expected: 1934 Got: 1937
-[14May2025 21:59:00.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:corruptedroundshield Expected: 1935 Got: 1938
-[14May2025 21:59:00.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:apostolic_cross_pattern Expected: 1936 Got: 1939
-[14May2025 21:59:00.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bowl_pattern Expected: 1937 Got: 1940
-[14May2025 21:59:00.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bull_pattern Expected: 1938 Got: 1941
-[14May2025 21:59:00.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:chess_pattern Expected: 1939 Got: 1942
-[14May2025 21:59:00.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:crusader_cross_pattern Expected: 1940 Got: 1943
-[14May2025 21:59:00.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:dragon_pattern Expected: 1941 Got: 1944
-[14May2025 21:59:00.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:eagle_pattern Expected: 1942 Got: 1945
-[14May2025 21:59:00.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:horse_pattern Expected: 1943 Got: 1946
-[14May2025 21:59:00.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:lily_pattern Expected: 1944 Got: 1947
-[14May2025 21:59:00.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:lion1_pattern Expected: 1945 Got: 1948
-[14May2025 21:59:00.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:lion2_pattern Expected: 1946 Got: 1949
-[14May2025 21:59:00.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:orthodox_cross_pattern Expected: 1947 Got: 1950
-[14May2025 21:59:00.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:snake_pattern Expected: 1948 Got: 1951
-[14May2025 21:59:00.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:sun_pattern Expected: 1949 Got: 1952
-[14May2025 21:59:00.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:swords_pattern Expected: 1950 Got: 1953
-[14May2025 21:59:00.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tower_pattern Expected: 1951 Got: 1954
-[14May2025 21:59:00.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:tree_pattern Expected: 1952 Got: 1955
-[14May2025 21:59:00.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:two-headed_eagle_pattern Expected: 1953 Got: 1956
-[14May2025 21:59:00.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_ingot Expected: 1954 Got: 1957
-[14May2025 21:59:00.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_nugget Expected: 1955 Got: 1958
-[14May2025 21:59:00.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_ring Expected: 1956 Got: 1959
-[14May2025 21:59:00.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_chainmail Expected: 1957 Got: 1960
-[14May2025 21:59:00.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_plate Expected: 1958 Got: 1961
-[14May2025 21:59:00.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:leather_strip Expected: 1959 Got: 1962
-[14May2025 21:59:00.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:hilt Expected: 1960 Got: 1963
-[14May2025 21:59:00.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:pole Expected: 1961 Got: 1964
-[14May2025 21:59:00.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:steel_chain Expected: 1962 Got: 1965
-[14May2025 21:59:00.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:woolen_fabric Expected: 1963 Got: 1966
-[14May2025 21:59:00.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:small_steel_plate Expected: 1964 Got: 1967
-[14May2025 21:59:00.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:lamellar_rows Expected: 1965 Got: 1968
-[14May2025 21:59:00.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:darkening_template Expected: 1966 Got: 1969
-[14May2025 21:59:00.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gilding_template Expected: 1967 Got: 1970
-[14May2025 21:59:00.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:torse_and_mantle_decoration Expected: 1968 Got: 1971
-[14May2025 21:59:00.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:gazelle_horns_decoration Expected: 1969 Got: 1972
-[14May2025 21:59:00.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:duck_decoration Expected: 1970 Got: 1973
-[14May2025 21:59:00.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:spike_decoration Expected: 1971 Got: 1974
-[14May2025 21:59:00.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:horse_decoration Expected: 1972 Got: 1975
-[14May2025 21:59:00.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:crown_decoration Expected: 1973 Got: 1976
-[14May2025 21:59:00.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:flowercrown_decoration Expected: 1974 Got: 1977
-[14May2025 21:59:00.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:unicorn_decoration Expected: 1975 Got: 1978
-[14May2025 21:59:00.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bullhorns_decoration Expected: 1976 Got: 1979
-[14May2025 21:59:00.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:dragon_decoration Expected: 1977 Got: 1980
-[14May2025 21:59:00.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:minicrown_decoration Expected: 1978 Got: 1981
-[14May2025 21:59:00.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:torse_decoration Expected: 1979 Got: 1982
-[14May2025 21:59:00.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:two_plumes_decoration Expected: 1980 Got: 1983
-[14May2025 21:59:00.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:antlers_decoration Expected: 1981 Got: 1984
-[14May2025 21:59:00.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:big_plume_decoration Expected: 1982 Got: 1985
-[14May2025 21:59:00.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:plume_left_decoration Expected: 1983 Got: 1986
-[14May2025 21:59:00.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:plume_middle_decoration Expected: 1984 Got: 1987
-[14May2025 21:59:00.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:plume_right_decoration Expected: 1985 Got: 1988
-[14May2025 21:59:00.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:bear_decoration Expected: 1986 Got: 1989
-[14May2025 21:59:00.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:lily_decoration Expected: 1987 Got: 1990
-[14May2025 21:59:00.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:lion_decoration Expected: 1988 Got: 1991
-[14May2025 21:59:00.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:demon_horns_decoration Expected: 1989 Got: 1992
-[14May2025 21:59:00.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:feathers_decoration Expected: 1990 Got: 1993
-[14May2025 21:59:00.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:viking_horns_decoration Expected: 1991 Got: 1994
-[14May2025 21:59:00.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:griffin_decoration Expected: 1992 Got: 1995
-[14May2025 21:59:00.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:hood_decoration Expected: 1993 Got: 1996
-[14May2025 21:59:00.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:ecranche_decoration Expected: 1994 Got: 1997
-[14May2025 21:59:00.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:rondel_decoration Expected: 1995 Got: 1998
-[14May2025 21:59:00.339] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:cat_ears_decoration Expected: 1996 Got: 1999
-[14May2025 21:59:00.339] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: magistuarmory:medieval_bag Expected: 1997 Got: 2000
-[14May2025 21:59:00.339] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: extra_ropes:projectile_throwable_rope Expected: 124 Got: 140
-[14May2025 21:59:00.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[14May2025 21:59:00.437] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[14May2025 21:59:00.447] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23265!/assets/.mcassetsroot' uses unexpected schema
-[14May2025 21:59:00.448] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23265!/data/.mcassetsroot' uses unexpected schema
-[14May2025 21:59:00.496] [main/ERROR] [Cristel Lib/]: Cristel Lib Config Pack has no data
-[14May2025 21:59:00.704] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
-[14May2025 21:59:00.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[14May2025 21:59:00.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
-[14May2025 21:59:00.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: OUTDATED Current: 1.20.1-1.0.10 Target: 1.20.1-1.0.18
-[14May2025 21:59:00.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
-[14May2025 21:59:00.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: OUTDATED Current: 1.3.2 Target: 1.3.3
-[14May2025 21:59:00.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
-[14May2025 21:59:01.057] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 10.0.0 Target: null
-[14May2025 21:59:01.057] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
-[14May2025 21:59:01.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
-[14May2025 21:59:01.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[14May2025 21:59:01.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.6 Target: 8.9.4
-[14May2025 21:59:01.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soulfired] Starting version check at https://api.modrinth.com/updates/soul-fire-d/forge_updates.json
-[14May2025 21:59:01.340] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[14May2025 21:59:01.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soulfired] Found status: OUTDATED Current: 3.2.1.0 Target: 4.0.11
-[14May2025 21:59:01.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[14May2025 21:59:01.361] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.32
-[14May2025 21:59:01.361] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[14May2025 21:59:01.385] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[17May2025 15:15:08.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[17May2025 15:15:08.589] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[17May2025 15:15:08.594] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[17May2025 15:15:08.595] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
+[17May2025 15:15:08.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 14.0.40 Target: 14.0.57
+[17May2025 15:15:08.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[17May2025 15:15:08.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[17May2025 15:15:08.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17May2025 15:15:08.839] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23265!/assets/.mcassetsroot' uses unexpected schema
+[17May2025 15:15:08.839] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23265!/data/.mcassetsroot' uses unexpected schema
+[17May2025 15:15:08.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[17May2025 15:15:08.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[17May2025 15:15:08.897] [main/ERROR] [Cristel Lib/]: Cristel Lib Config Pack has no data
+[17May2025 15:15:09.134] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[17May2025 15:15:09.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[17May2025 15:15:09.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[17May2025 15:15:09.281] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: OUTDATED Current: 1.20.1-1.0.10 Target: 1.20.1-1.0.18
+[17May2025 15:15:09.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
+[17May2025 15:15:09.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: OUTDATED Current: 1.3.2 Target: 1.3.3
+[17May2025 15:15:09.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
+[17May2025 15:15:09.451] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 10.0.0 Target: null
+[17May2025 15:15:09.451] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[17May2025 15:15:09.554] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[17May2025 15:15:09.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[17May2025 15:15:09.566] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.6 Target: 8.9.4
+[17May2025 15:15:09.567] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soulfired] Starting version check at https://api.modrinth.com/updates/soul-fire-d/forge_updates.json
+[17May2025 15:15:09.653] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soulfired] Found status: OUTDATED Current: 3.2.1.0 Target: 4.0.11
+[17May2025 15:15:09.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[17May2025 15:15:09.665] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.32
+[17May2025 15:15:09.665] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[17May2025 15:15:09.690] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -814,104 +303,82 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[14May2025 21:59:02.917] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
-[14May2025 21:59:03.007] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[14May2025 21:59:03.007] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
-[14May2025 21:59:03.100] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1620 advancements
-[14May2025 21:59:03.102] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[14May2025 21:59:03.102] [main/INFO] [Dungeon Crawl/]: Loading data...
-[14May2025 21:59:03.438] [main/INFO] [Dungeon Crawl/]: Done.
-[14May2025 21:59:03.439] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
-[14May2025 21:59:03.450] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[14May2025 21:59:03.454] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[14May2025 21:59:03.456] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
-[14May2025 21:59:04.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[14May2025 21:59:04.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[14May2025 21:59:04.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[14May2025 21:59:04.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[14May2025 21:59:04.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[14May2025 21:59:04.201] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[14May2025 21:59:04.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14May2025 21:59:04.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[14May2025 21:59:04.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14May2025 21:59:04.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[14May2025 21:59:04.299] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[14May2025 21:59:04.301] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[14May2025 21:59:04.356] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[14May2025 21:59:04.356] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[14May2025 21:59:04.356] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[14May2025 21:59:04.356] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[14May2025 21:59:04.357] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[14May2025 21:59:04.358] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[14May2025 21:59:04.358] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[14May2025 21:59:04.358] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[14May2025 21:59:04.358] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[14May2025 21:59:04.359] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[14May2025 21:59:04.361] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
-[14May2025 21:59:04.366] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
-[14May2025 21:59:04.451] [Server thread/INFO] [spark/]: Starting background profiler...
-[14May2025 21:59:04.825] [Server thread/INFO] [Framework/]: Loading server configs...
-[14May2025 21:59:04.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[14May2025 21:59:05.433] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[14May2025 21:59:05.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[14May2025 21:59:05.551] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 117 ms
-[14May2025 21:59:05.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.258s)! For help, type "help"
-[14May2025 21:59:05.588] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[14May2025 21:59:05.602] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
-[14May2025 21:59:05.605] [Server thread/WARN] [ModernFix/]: Dedicated server took 24.931 seconds to load
-[14May2025 22:00:19.560] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[14May2025 22:00:19.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:56944] logged in with entity id 158 at (1704.9860418599287, 159.0, 806.7177577591375)
-[14May2025 22:00:19.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
-[14May2025 22:00:34.294] [Netty Epoll Server IO #1/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
-[14May2025 22:00:34.298] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
-[14May2025 22:00:34.300] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
-[14May2025 22:12:26.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Magic Writing]
-[14May2025 22:22:09.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Take Aim]
-[14May2025 22:22:24.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [A Strange Grave Dust]
-[14May2025 22:24:35.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Cover Me with Diamonds]
-[14May2025 22:32:54.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [Bone Crusher]
-[14May2025 22:46:39.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Timed out
-[14May2025 22:46:39.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
-[14May2025 22:47:22.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:57380] logged in with entity id 8126 at (1742.3348640419251, 46.0, 783.9343453668452)
-[14May2025 22:47:22.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
-[14May2025 22:47:24.816] [Netty Epoll Server IO #2/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
-[14May2025 23:19:04.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir was kicked for floating too long!
-[14May2025 23:19:04.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Flying is not enabled on this server
-[14May2025 23:19:04.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
-[14May2025 23:19:46.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:57660] logged in with entity id 13355 at (1818.7549383579044, 63.024424088213685, 765.2201233755493)
-[14May2025 23:19:46.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
-[14May2025 23:19:50.959] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
-[14May2025 23:21:26.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved too quickly! -7.118728592805837,-0.11584063815757872,-7.526818768213616
-[14May2025 23:28:55.773] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
-[14May2025 23:30:37.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.9954861832127335
-[14May2025 23:30:37.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 2.1556350184557687
-[14May2025 23:30:37.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 3.339169163205497
-[14May2025 23:30:37.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 4.544767695785822
-[14May2025 23:30:37.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.8012378963728679
-[14May2025 23:30:37.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.7681958564551223
-[14May2025 23:30:37.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.7398664029624342
-[14May2025 23:30:37.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.7155882483873484
-[14May2025 23:30:37.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.6954817608932444
-[14May2025 23:30:49.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.30990701975792945
-[14May2025 23:30:49.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.8998098212198329
-[14May2025 23:30:49.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 1.4805960115779726
-[14May2025 23:30:49.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 2.051440604755271
-[14May2025 23:30:54.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 1.8673805849975906,0.0,10.35650685045357
-[14May2025 23:30:54.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.0848312835041725,0.0,11.874098319630093
-[14May2025 23:30:54.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.293169786675662,0.0,13.401053375295987
-[14May2025 23:30:54.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.4933826749866057,0.0,14.937272971950051
-[14May2025 23:30:54.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.686419303125149,0.0,16.48264223811202
-[14May2025 23:30:54.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.873195963391936,0.0,18.03703213022004
-[14May2025 23:30:54.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 3.0545961951420395,0.0,19.600300580340672
-[14May2025 23:30:54.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 3.2314749562247016,0.0,21.172293710329086
-[14May2025 23:30:54.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 3.4046512429958966,0.0,22.752846664080153
-[14May2025 23:30:54.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 1.9351110486923062,0.0,15.493423010497736
-[14May2025 23:30:55.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.103216954950767,0.0,17.09056281158837
-[14May2025 23:30:55.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 2.269896640425486,0.0,18.695712974623575
-[14May2025 23:31:08.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.33580978497684555
-[14May2025 23:31:08.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 0.8363547195708634
-[14May2025 23:31:08.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 1.3316471346465732
-[14May2025 23:31:08.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 1.8641838845128405
-[14May2025 23:36:30.499] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
-[14May2025 23:36:30.721] [Worker-Main-25/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
-[14May2025 23:48:57.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Where Is The Stone Pen?]
+[17May2025 15:15:09.836] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[17May2025 15:15:11.581] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
+[17May2025 15:15:11.692] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[17May2025 15:15:11.692] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
+[17May2025 15:15:11.795] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1620 advancements
+[17May2025 15:15:11.797] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[17May2025 15:15:11.798] [main/INFO] [Dungeon Crawl/]: Loading data...
+[17May2025 15:15:12.089] [main/INFO] [Dungeon Crawl/]: Done.
+[17May2025 15:15:12.091] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[17May2025 15:15:12.100] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[17May2025 15:15:12.104] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[17May2025 15:15:12.106] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
+[17May2025 15:15:12.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[17May2025 15:15:12.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17May2025 15:15:12.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17May2025 15:15:12.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17May2025 15:15:12.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17May2025 15:15:12.862] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17May2025 15:15:12.932] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17May2025 15:15:12.932] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[17May2025 15:15:12.933] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17May2025 15:15:12.933] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[17May2025 15:15:12.949] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[17May2025 15:15:12.951] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[17May2025 15:15:13.006] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[17May2025 15:15:13.006] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[17May2025 15:15:13.007] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[17May2025 15:15:13.007] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[17May2025 15:15:13.007] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[17May2025 15:15:13.009] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[17May2025 15:15:13.009] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[17May2025 15:15:13.010] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[17May2025 15:15:13.010] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[17May2025 15:15:13.011] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[17May2025 15:15:13.013] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
+[17May2025 15:15:13.018] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
+[17May2025 15:15:13.102] [Server thread/INFO] [spark/]: Starting background profiler...
+[17May2025 15:15:13.576] [Server thread/INFO] [Framework/]: Loading server configs...
+[17May2025 15:15:13.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[17May2025 15:15:14.198] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[17May2025 15:15:14.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17May2025 15:15:14.391] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 192 ms
+[17May2025 15:15:14.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.448s)! For help, type "help"
+[17May2025 15:15:14.429] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17May2025 15:15:14.448] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
+[17May2025 15:15:14.452] [Server thread/WARN] [ModernFix/]: Dedicated server took 26.365 seconds to load
+[17May2025 15:15:28.555] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[17May2025 15:15:28.693] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:64666] logged in with entity id 158 at (2363.1871813255193, 63.796735600668704, 1954.8617743843956)
+[17May2025 15:15:28.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
+[17May2025 15:15:31.543] [Netty Epoll Server IO #1/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
+[17May2025 15:15:31.569] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[17May2025 15:15:31.571] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[17May2025 15:15:54.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir was kicked for floating too long!
+[17May2025 15:15:54.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Flying is not enabled on this server
+[17May2025 15:15:54.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[17May2025 15:16:14.657] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8c062e5[id=<null>,name=kamushkarkir,properties={},legacy=false] (/100.112.77.102:64687) lost connection: Disconnected
+[17May2025 15:16:22.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:64688] logged in with entity id 554 at (2380.391237336212, 63.796735600668704, 1972.6196067425897)
+[17May2025 15:16:22.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
+[17May2025 15:16:22.968] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
+[17May2025 15:18:19.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 9.072870274825164,0.0,-4.667379152440617
+[17May2025 15:18:19.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 10.267398801214767,0.0,-5.281883424207308
+[17May2025 15:18:19.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 3.653345521128813
+[17May2025 15:18:19.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 3.653345521128813
+[17May2025 15:18:19.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 2.593999767328569
+[17May2025 15:18:19.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved wrongly! 1.5540404415132798
+[17May2025 15:18:23.543] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[17May2025 15:18:26.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of kamushkarkir) moved too quickly! 9.014228892401661,0.0,-4.985531222909685
+[17May2025 15:37:18.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[17May2025 15:38:49.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Your First Receptacle]
+[17May2025 15:53:00.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kamushkarkir) moved wrongly! 0.265408815182127
+[17May2025 15:53:00.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kamushkarkir) moved wrongly! 0.6627853112195226
+[17May2025 15:53:00.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kamushkarkir) moved wrongly! 1.048039252484159
+[17May2025 15:53:00.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of kamushkarkir) moved wrongly! 1.392701530323393
+[17May2025 15:53:24.398] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[17May2025 15:54:26.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Timed out
+[17May2025 15:54:26.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[17May2025 15:54:57.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:65109] logged in with entity id 13509 at (4974.886607405329, 76.8500000178814, 2322.6865428863725)
+[17May2025 15:54:57.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
+[17May2025 15:54:58.544] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
