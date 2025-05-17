@@ -382,3 +382,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17May2025 15:54:57.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:65109] logged in with entity id 13509 at (4974.886607405329, 76.8500000178814, 2322.6865428863725)
 [17May2025 15:54:57.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
 [17May2025 15:54:58.544] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
+[17May2025 15:57:43.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Timed out
+[17May2025 15:57:43.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[17May2025 16:03:51.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:57912] logged in with entity id 14201 at (5027.63245266175, 63.85000001788139, 2246.2765681825485)
+[17May2025 16:03:51.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
+[17May2025 16:03:52.474] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
