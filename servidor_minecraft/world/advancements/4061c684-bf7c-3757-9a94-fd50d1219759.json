@@ -24,6 +24,7 @@
       "minecraft:cold_ocean": "2025-05-14 23:26:47 +0000",
       "minecraft:forest": "2025-05-14 03:06:32 +0000",
       "minecraft:lush_caves": "2025-05-14 22:08:01 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-18 00:39:42 +0000",
       "minecraft:snowy_beach": "2025-05-14 23:30:02 +0000",
       "minecraft:plains": "2025-05-14 02:57:49 +0000"
     },
@@ -362,6 +363,7 @@
       "baked_potato": "2025-05-14 04:12:16 +0000",
       "bread": "2025-05-14 04:31:24 +0000",
       "golden_apple": "2025-05-14 22:59:02 +0000",
+      "suspicious_stew": "2025-05-18 00:45:44 +0000",
       "mushroom_stew": "2025-05-14 03:09:23 +0000"
     },
     "done": false
@@ -857,6 +859,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-05-18 00:44:57 +0000",
       "entered_stables": "2025-05-14 03:28:39 +0000",
       "entered_ice_pit": "2025-05-17 16:15:53 +0000",
       "entered_watch_tower": "2025-05-14 03:23:15 +0000",
