@@ -468,3 +468,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 03:37:19.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/82062, l='ServerLevel[world]', x=-2836.30, y=183.01, z=-2893.30] died: Dinnerbone was shot by kamushkarkir
 [18May2025 03:37:50.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/80183, l='ServerLevel[world]', x=-2831.51, y=178.01, z=-2879.70] died: Dinnerbone was shot by kamushkarkir
 [18May2025 03:39:43.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/81339, l='ServerLevel[world]', x=-2842.70, y=155.01, z=-2866.98] died: Dinnerbone was shot by kamushkarkir
+[18May2025 03:51:12.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Ambush]
+[18May2025 04:00:35.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Spectator Mode]
+[18May2025 04:01:36.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Creative Mode]
+[18May2025 04:02:16.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Spectator Mode]
+[18May2025 04:02:20.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Creative Mode]
+[18May2025 04:02:22.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Survival Mode]
+[18May2025 04:02:39.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir was kicked for floating too long!
+[18May2025 04:02:39.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Flying is not enabled on this server
+[18May2025 04:02:39.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game

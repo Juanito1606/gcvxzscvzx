@@ -447,6 +447,7 @@
       "minecraft:magma_cube": "2025-05-17 15:33:32 +0000",
       "minecraft:spider": "2025-05-14 22:19:59 +0000",
       "minecraft:creeper": "2025-05-14 03:39:16 +0000",
+      "minecraft:witch": "2025-05-18 03:51:12 +0000",
       "minecraft:wither_skeleton": "2025-05-18 02:14:44 +0000",
       "minecraft:husk": "2025-05-18 01:15:09 +0000",
       "minecraft:cave_spider": "2025-05-14 22:09:38 +0000",
@@ -2755,15 +2756,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-18 03:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-18 03:48:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-05-18 03:18:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-18 03:59:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-05-18 03:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-18 03:59:46 +0000"
     },
     "done": true
   },
@@ -2776,6 +2801,18 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-18 03:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-18 03:59:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 03:51:12 +0000"
     },
     "done": true
   },
@@ -2821,9 +2858,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-18 03:59:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-05-18 03:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-18 03:48:42 +0000"
     },
     "done": true
   },
