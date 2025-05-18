@@ -449,3 +449,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 03:06:32.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir withered away whilst fighting Wither Skeleton
 [18May2025 03:06:32.686] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
 [18May2025 03:07:02.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Gave 1 [Ender Pearl] to kamushkarkir]
+[18May2025 03:17:08.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/77867, l='ServerLevel[world]', x=-2863.97, y=107.01, z=-2884.06] died: Dinnerbone was shot by kamushkarkir
+[18May2025 03:17:11.078] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/78605, l='ServerLevel[world]', x=-2864.66, y=107.01, z=-2885.70] died: Dinnerbone was shot by kamushkarkir
+[18May2025 03:17:27.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/78403, l='ServerLevel[world]', x=-2855.95, y=107.01, z=-2881.06] died: Dinnerbone was shot by kamushkarkir
+[18May2025 03:17:57.428] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/78855, l='ServerLevel[world]', x=-2864.03, y=107.01, z=-2885.70] died: Dinnerbone was shot by Dinnerbone
+[18May2025 03:18:05.643] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/78726, l='ServerLevel[world]', x=-2865.70, y=107.01, z=-2885.70] died: Dinnerbone was slain by kamushkarkir
+[18May2025 03:19:11.954] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
+[18May2025 03:20:49.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/78637, l='ServerLevel[world]', x=-2859.30, y=108.01, z=-2877.30] died: Dinnerbone was shot by kamushkarkir
+[18May2025 03:21:57.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/79326, l='ServerLevel[world]', x=-2858.43, y=123.01, z=-2879.08] died: Dinnerbone was slain by kamushkarkir
+[18May2025 03:27:31.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved wrongly!
+[18May2025 03:29:07.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved too quickly! 1.6784398527015583,-10.704334446500681,-1.0153511903990875
+[18May2025 03:31:08.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved too quickly! 0.17673901200669206,-10.973312106241139,-1.9914836895900407
