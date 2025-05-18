@@ -2731,27 +2731,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/combine_in_inventory": {
-    "criteria": {
-      "coded_trigger": "2025-05-18 02:37:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-18 02:35:24 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "tombstone:adventure/combine_in_inventory": {
     "criteria": {
-      "coded_trigger": "2025-05-18 02:37:21 +0000"
+      "coded_trigger": "2025-05-18 02:37:03 +0000"
     },
     "done": true
   },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-05-18 02:37:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 02:37:21 +0000"
     },
     "done": true
   },

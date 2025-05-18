@@ -426,3 +426,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 02:37:21.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [A Fast Comeback]
 [18May2025 02:42:21.027] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/73315, l='ServerLevel[world]', x=-2838.10, y=100.92, z=-2874.66] died: Dinnerbone was shot by kamushkarkir
 [18May2025 02:42:44.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/74114, l='ServerLevel[world]', x=-2840.70, y=106.01, z=-2874.16] died: Dinnerbone was burnt to a crisp whilst fighting kamushkarkir
+[18May2025 02:53:04.433] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for kamushkarkir with unique ID 464f0f27-3661-49fc-a090-ca6ff26277ba
+[18May2025 02:53:04.434] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2843 Y: 84 Z: -2891
+[18May2025 02:53:04.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir was slain by Wither Skeleton
+[18May2025 02:53:04.437] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
+[18May2025 02:55:06.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Timed out
+[18May2025 02:55:06.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[18May2025 02:58:08.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:61456] logged in with entity id 76030 at (-2839.792904857303, 88.0, -2886.885161495133)
+[18May2025 02:58:08.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
+[18May2025 02:58:15.861] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
+[18May2025 03:01:28.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Creative Mode]
+[18May2025 03:01:30.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Survival Mode]
+[18May2025 03:01:32.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Spectator Mode]
+[18May2025 03:01:59.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Survival Mode]
+[18May2025 03:02:01.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Spectator Mode]
+[18May2025 03:02:05.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Survival Mode]
