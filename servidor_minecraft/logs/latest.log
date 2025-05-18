@@ -389,3 +389,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 01:34:19.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1110, y=118, z=-1068} BlockPos{x=-1110, y=119, z=-1068}
 [18May2025 01:39:36.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set the weather to clear]
 [18May2025 01:45:01.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[18May2025 01:52:24.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18May2025 01:52:24.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: worldb<--[HERE]
+[18May2025 01:52:55.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the world border to 10000.0 block(s) wide
+[18May2025 01:53:38.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Super Creeps]
+[18May2025 01:55:37.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Disconnected
+[18May2025 01:55:37.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[18May2025 01:55:51.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:60839] logged in with entity id 22915 at (-2850.8189306666964, 86.0, -2852.0847477859716)
+[18May2025 01:55:51.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
+[18May2025 01:55:54.221] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
+[18May2025 02:10:30.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [Great minds think alike]
+[18May2025 02:14:44.847] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for kamushkarkir with unique ID a3537131-6d08-4b87-8972-54ea9b6af65d
+[18May2025 02:14:44.848] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2867 Y: 69 Z: -2885
+[18May2025 02:14:44.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir withered away
+[18May2025 02:14:44.865] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
+[18May2025 02:15:40.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [Here They Come]
