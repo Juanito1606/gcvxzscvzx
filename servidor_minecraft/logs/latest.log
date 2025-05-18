@@ -425,3 +425,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 02:37:03.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Quickly Applied]
 [18May2025 02:37:21.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [A Fast Comeback]
 [18May2025 02:42:21.027] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/73315, l='ServerLevel[world]', x=-2838.10, y=100.92, z=-2874.66] died: Dinnerbone was shot by kamushkarkir
+[18May2025 02:42:44.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/74114, l='ServerLevel[world]', x=-2840.70, y=106.01, z=-2874.16] died: Dinnerbone was burnt to a crisp whilst fighting kamushkarkir
