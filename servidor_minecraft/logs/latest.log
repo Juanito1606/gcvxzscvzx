@@ -1,36 +1,36 @@
-[18May2025 00:25:45.341] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[18May2025 00:25:45.349] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[18May2025 00:25:50.564] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[18May2025 00:25:50.822] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/gcvxzscvzx/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[18May2025 00:25:51.435] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[18May2025 00:25:51.437] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[18May2025 00:25:51.438] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[18May2025 00:25:51.440] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[18May2025 00:25:51.865] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[18May2025 00:25:51.867] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
-[18May2025 00:25:54.950] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18May2025 00:25:55.248] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[18May2025 00:25:55.249] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[18May2025 00:25:55.250] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[18May2025 00:25:55.255] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[18May2025 00:25:55.278] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[18May2025 00:25:55.528] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.1+mc1.20.1: 83 options available, 2 override(s) found
-[18May2025 00:25:55.529] [main/WARN] [ModernFix/]: Option 'mixin.perf.faster_item_rendering' overriden (by user configuration) to 'true'
-[18May2025 00:25:55.529] [main/WARN] [ModernFix/]: Option 'mixin.perf.deduplicate_location' overriden (by user configuration) to 'true'
-[18May2025 00:25:55.529] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[18May2025 00:25:55.555] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[18May2025 00:25:55.661] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
-[18May2025 00:25:55.662] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
-[18May2025 00:25:56.140] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
-[18May2025 00:25:56.145] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
-[18May2025 00:25:56.148] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
-[18May2025 00:25:56.149] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
-[18May2025 00:25:56.151] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
-[18May2025 00:25:56.153] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
-[18May2025 00:25:56.156] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
-[18May2025 00:25:56.158] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
-[18May2025 00:25:56.191] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 133 options available, 0 override(s) found
-[18May2025 00:25:56.410] [main/INFO] [Puzzles Lib/]: Loading 88 mods:
+[18May2025 04:26:24.966] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[18May2025 04:26:24.970] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[18May2025 04:26:26.245] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[18May2025 04:26:26.305] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/gcvxzscvzx/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[18May2025 04:26:26.680] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[18May2025 04:26:26.681] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18May2025 04:26:26.682] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18May2025 04:26:26.683] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18May2025 04:26:26.932] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[18May2025 04:26:26.933] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[18May2025 04:26:28.935] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18May2025 04:26:29.212] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[18May2025 04:26:29.214] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[18May2025 04:26:29.215] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[18May2025 04:26:29.219] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[18May2025 04:26:29.234] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[18May2025 04:26:29.336] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.1+mc1.20.1: 83 options available, 2 override(s) found
+[18May2025 04:26:29.336] [main/WARN] [ModernFix/]: Option 'mixin.perf.faster_item_rendering' overriden (by user configuration) to 'true'
+[18May2025 04:26:29.337] [main/WARN] [ModernFix/]: Option 'mixin.perf.deduplicate_location' overriden (by user configuration) to 'true'
+[18May2025 04:26:29.338] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[18May2025 04:26:29.363] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[18May2025 04:26:29.487] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[18May2025 04:26:29.489] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[18May2025 04:26:29.811] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
+[18May2025 04:26:29.814] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
+[18May2025 04:26:29.816] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
+[18May2025 04:26:29.817] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
+[18May2025 04:26:29.819] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
+[18May2025 04:26:29.820] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
+[18May2025 04:26:29.821] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
+[18May2025 04:26:29.823] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
+[18May2025 04:26:29.846] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 133 options available, 0 override(s) found
+[18May2025 04:26:29.964] [main/INFO] [Puzzles Lib/]: Loading 88 mods:
 	- ambientsounds 6.1.10
 	- appleskin 2.5.1+mc1.20.1
 	- architectury 9.2.14
@@ -120,45 +120,45 @@
 	- travelersbackpack 9.1.14
 	- waystones 14.1.3
 	- yungsapi 1.20-Forge-4.0.5
-[18May2025 00:25:56.439] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[18May2025 00:25:58.450] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[18May2025 00:25:58.451] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[18May2025 00:25:58.451] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[18May2025 00:25:58.452] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[18May2025 00:25:58.452] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[18May2025 00:25:58.453] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[18May2025 00:25:58.454] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[18May2025 00:25:58.454] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[18May2025 00:25:58.747] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18May2025 00:25:59.664] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (21.18 s after launch)
-[18May2025 00:25:59.979] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[18May2025 00:25:59.982] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[18May2025 00:26:00.087] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[18May2025 00:26:00.087] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[18May2025 00:26:02.247] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2577 milliseconds
-[18May2025 00:26:05.636] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[18May2025 00:26:05.643] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[18May2025 00:26:05.663] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[18May2025 00:26:05.687] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[18May2025 00:26:05.713] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
-[18May2025 00:26:05.728] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
-[18May2025 00:26:05.730] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
-[18May2025 00:26:05.736] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
-[18May2025 00:26:05.888] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[18May2025 00:26:05.901] [modloading-worker-0/INFO] [fastconfigapi/]: FastConfigAPI has been initialized!
-[18May2025 00:26:05.967] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[18May2025 00:26:05.967] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[18May2025 00:26:05.967] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[18May2025 00:26:05.968] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[18May2025 00:26:05.968] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[18May2025 00:26:05.968] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[18May2025 00:26:05.968] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[18May2025 00:26:06.211] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[18May2025 00:26:06.212] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[18May2025 00:26:06.402] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[18May2025 00:26:06.402] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[18May2025 00:26:06.440] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[18May2025 00:26:06.440] [modloading-worker-0/ERROR] [Embeddium/]: Failed to update fingerprint
+[18May2025 04:26:29.982] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[18May2025 04:26:31.880] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[18May2025 04:26:31.882] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[18May2025 04:26:31.882] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[18May2025 04:26:31.884] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[18May2025 04:26:31.884] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[18May2025 04:26:31.884] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[18May2025 04:26:31.886] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[18May2025 04:26:31.886] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[18May2025 04:26:32.082] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18May2025 04:26:32.728] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (10.16 s after launch)
+[18May2025 04:26:32.902] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[18May2025 04:26:32.903] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[18May2025 04:26:33.017] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[18May2025 04:26:33.017] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[18May2025 04:26:35.021] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2289 milliseconds
+[18May2025 04:26:37.933] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[18May2025 04:26:37.939] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[18May2025 04:26:37.955] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[18May2025 04:26:37.971] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[18May2025 04:26:37.995] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
+[18May2025 04:26:38.019] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
+[18May2025 04:26:38.021] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
+[18May2025 04:26:38.022] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
+[18May2025 04:26:38.108] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[18May2025 04:26:38.139] [modloading-worker-0/INFO] [fastconfigapi/]: FastConfigAPI has been initialized!
+[18May2025 04:26:38.168] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[18May2025 04:26:38.169] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[18May2025 04:26:38.169] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[18May2025 04:26:38.169] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[18May2025 04:26:38.169] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[18May2025 04:26:38.169] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[18May2025 04:26:38.170] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[18May2025 04:26:38.409] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[18May2025 04:26:38.411] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[18May2025 04:26:38.499] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[18May2025 04:26:38.503] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[18May2025 04:26:38.523] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[18May2025 04:26:38.524] [modloading-worker-0/ERROR] [Embeddium/]: Failed to update fingerprint
 java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
 	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
@@ -187,35 +187,35 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[18May2025 00:26:06.567] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
-[18May2025 00:26:06.569] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
-[18May2025 00:26:06.569] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
-[18May2025 00:26:06.611] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.80.
-[18May2025 00:26:06.815] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[18May2025 00:26:06.826] [modloading-worker-0/INFO] [labellingcontainers/]: Initializing mod...
-[18May2025 00:26:06.883] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id labellingcontainers:request_taggable_blocks_config_packet
-[18May2025 00:26:06.884] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id labellingcontainers:label_printer_save_packet
-[18May2025 00:26:06.889] [modloading-worker-0/WARN] [labellingcontainers/]: Could not run Client Setup (mod is probably running on a Server-Only instance)
-[18May2025 00:26:06.921] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[18May2025 00:26:06.934] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
-[18May2025 00:26:06.936] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
-[18May2025 00:26:06.937] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
-[18May2025 00:26:06.937] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
-[18May2025 00:26:06.974] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[18May2025 00:26:07.099] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[18May2025 00:26:07.101] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[18May2025 00:26:09.544] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[18May2025 00:26:09.553] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[18May2025 00:26:09.556] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[18May2025 00:26:09.557] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[18May2025 00:26:10.133] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[18May2025 00:26:10.148] [modloading-worker-0/INFO] [com.dragonfight.DragonfightMod/]: dragonfight mod initialized
-[18May2025 00:26:10.291] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[18May2025 00:26:10.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[18May2025 00:26:10.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[18May2025 00:26:10.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[18May2025 00:26:10.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[18May2025 00:26:10.650] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[18May2025 04:26:38.791] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
+[18May2025 04:26:38.792] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
+[18May2025 04:26:38.792] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
+[18May2025 04:26:38.816] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.80.
+[18May2025 04:26:38.971] [modloading-worker-0/INFO] [labellingcontainers/]: Initializing mod...
+[18May2025 04:26:38.981] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[18May2025 04:26:38.996] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id labellingcontainers:request_taggable_blocks_config_packet
+[18May2025 04:26:38.997] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id labellingcontainers:label_printer_save_packet
+[18May2025 04:26:38.999] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[18May2025 04:26:39.002] [modloading-worker-0/WARN] [labellingcontainers/]: Could not run Client Setup (mod is probably running on a Server-Only instance)
+[18May2025 04:26:39.023] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
+[18May2025 04:26:39.027] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
+[18May2025 04:26:39.027] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
+[18May2025 04:26:39.028] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
+[18May2025 04:26:39.055] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[18May2025 04:26:39.120] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[18May2025 04:26:39.121] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[18May2025 04:26:41.114] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[18May2025 04:26:41.125] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[18May2025 04:26:41.129] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[18May2025 04:26:41.132] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[18May2025 04:26:41.639] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[18May2025 04:26:41.653] [modloading-worker-0/INFO] [com.dragonfight.DragonfightMod/]: dragonfight mod initialized
+[18May2025 04:26:41.701] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[18May2025 04:26:41.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[18May2025 04:26:41.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[18May2025 04:26:41.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[18May2025 04:26:41.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[18May2025 04:26:42.003] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -230,22 +230,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[18May2025 00:26:10.651] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://update.maxhenkel.de/forge/reap
-[18May2025 00:26:10.740] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[18May2025 00:26:10.740] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[18May2025 00:26:10.741] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[18May2025 00:26:10.741] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[18May2025 00:26:11.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: OUTDATED Current: 1.20.1-1.1.0 Target: 1.20.1-1.1.2
-[18May2025 00:26:11.179] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[18May2025 00:26:11.208] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[18May2025 00:26:11.208] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[18May2025 00:26:11.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[18May2025 00:26:11.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
-[18May2025 00:26:11.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
-[18May2025 00:26:11.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[18May2025 00:26:11.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
-[18May2025 00:26:11.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
-[18May2025 00:26:11.731] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[18May2025 04:26:42.003] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://update.maxhenkel.de/forge/reap
+[18May2025 04:26:42.164] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[18May2025 04:26:42.165] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[18May2025 04:26:42.165] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[18May2025 04:26:42.165] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[18May2025 04:26:42.649] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[18May2025 04:26:42.649] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[18May2025 04:26:42.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: OUTDATED Current: 1.20.1-1.1.0 Target: 1.20.1-1.1.2
+[18May2025 04:26:42.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[18May2025 04:26:43.023] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[18May2025 04:26:43.023] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
+[18May2025 04:26:43.124] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[18May2025 04:26:43.125] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[18May2025 04:26:43.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
+[18May2025 04:26:43.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[18May2025 04:26:43.201] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -260,38 +260,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[18May2025 00:26:11.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[18May2025 00:26:11.825] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18May2025 00:26:11.835] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[18May2025 00:26:11.835] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
-[18May2025 00:26:11.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 14.0.40 Target: 14.0.57
-[18May2025 00:26:11.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[18May2025 00:26:11.951] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[18May2025 00:26:11.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18May2025 00:26:11.954] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[18May2025 00:26:12.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[18May2025 00:26:12.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[18May2025 00:26:12.236] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23267!/assets/.mcassetsroot' uses unexpected schema
-[18May2025 00:26:12.237] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23267!/data/.mcassetsroot' uses unexpected schema
-[18May2025 00:26:12.304] [main/ERROR] [Cristel Lib/]: Cristel Lib Config Pack has no data
-[18May2025 00:26:12.361] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[18May2025 00:26:12.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
-[18May2025 00:26:12.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: OUTDATED Current: 1.20.1-1.0.10 Target: 1.20.1-1.0.18
-[18May2025 00:26:12.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
-[18May2025 00:26:12.474] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: OUTDATED Current: 1.3.2 Target: 1.3.3
-[18May2025 00:26:12.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
-[18May2025 00:26:12.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 10.0.0 Target: null
-[18May2025 00:26:12.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
-[18May2025 00:26:12.588] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
-[18May2025 00:26:12.685] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
-[18May2025 00:26:12.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[18May2025 00:26:12.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.6 Target: 8.9.4
-[18May2025 00:26:12.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soulfired] Starting version check at https://api.modrinth.com/updates/soul-fire-d/forge_updates.json
-[18May2025 00:26:12.839] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soulfired] Found status: OUTDATED Current: 3.2.1.0 Target: 4.0.11
-[18May2025 00:26:12.839] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[18May2025 00:26:12.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.32
-[18May2025 00:26:12.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[18May2025 00:26:12.874] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[18May2025 04:26:43.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[18May2025 04:26:43.226] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18May2025 04:26:43.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[18May2025 04:26:43.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
+[18May2025 04:26:43.332] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[18May2025 04:26:43.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 14.0.40 Target: 14.0.57
+[18May2025 04:26:43.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[18May2025 04:26:43.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[18May2025 04:26:43.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18May2025 04:26:43.598] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23267!/assets/.mcassetsroot' uses unexpected schema
+[18May2025 04:26:43.598] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/gcvxzscvzx/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23267!/data/.mcassetsroot' uses unexpected schema
+[18May2025 04:26:43.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[18May2025 04:26:43.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[18May2025 04:26:43.666] [main/ERROR] [Cristel Lib/]: Cristel Lib Config Pack has no data
+[18May2025 04:26:43.887] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[18May2025 04:26:43.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[18May2025 04:26:43.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[18May2025 04:26:44.030] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: OUTDATED Current: 1.20.1-1.0.10 Target: 1.20.1-1.0.18
+[18May2025 04:26:44.030] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
+[18May2025 04:26:44.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: OUTDATED Current: 1.3.2 Target: 1.3.3
+[18May2025 04:26:44.044] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
+[18May2025 04:26:44.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 10.0.0 Target: null
+[18May2025 04:26:44.124] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[18May2025 04:26:44.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[18May2025 04:26:44.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[18May2025 04:26:44.236] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.6 Target: 8.9.4
+[18May2025 04:26:44.236] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soulfired] Starting version check at https://api.modrinth.com/updates/soul-fire-d/forge_updates.json
+[18May2025 04:26:44.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soulfired] Found status: OUTDATED Current: 3.2.1.0 Target: 4.0.11
+[18May2025 04:26:44.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[18May2025 04:26:44.370] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.32
+[18May2025 04:26:44.371] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[18May2025 04:26:44.399] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -306,188 +306,63 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[18May2025 00:26:13.377] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[18May2025 00:26:15.596] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
-[18May2025 00:26:15.727] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[18May2025 00:26:15.727] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
-[18May2025 00:26:15.834] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1620 advancements
-[18May2025 00:26:15.837] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[18May2025 00:26:15.838] [main/INFO] [Dungeon Crawl/]: Loading data...
-[18May2025 00:26:16.288] [main/INFO] [Dungeon Crawl/]: Done.
-[18May2025 00:26:16.290] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
-[18May2025 00:26:16.299] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[18May2025 00:26:16.303] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[18May2025 00:26:16.305] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
-[18May2025 00:26:17.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[18May2025 00:26:17.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[18May2025 00:26:17.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[18May2025 00:26:17.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18May2025 00:26:17.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[18May2025 00:26:17.496] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[18May2025 00:26:17.600] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18May2025 00:26:17.600] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[18May2025 00:26:17.600] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18May2025 00:26:17.601] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[18May2025 00:26:17.616] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[18May2025 00:26:17.618] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[18May2025 00:26:17.681] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[18May2025 00:26:17.682] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[18May2025 00:26:17.682] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[18May2025 00:26:17.682] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[18May2025 00:26:17.683] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[18May2025 00:26:17.684] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[18May2025 00:26:17.684] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[18May2025 00:26:17.684] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[18May2025 00:26:17.684] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[18May2025 00:26:17.685] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[18May2025 00:26:17.687] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
-[18May2025 00:26:17.693] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
-[18May2025 00:26:17.825] [Server thread/INFO] [spark/]: Starting background profiler...
-[18May2025 00:26:18.506] [Server thread/INFO] [Framework/]: Loading server configs...
-[18May2025 00:26:18.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[18May2025 00:26:19.339] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[18May2025 00:26:19.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18May2025 00:26:19.538] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 198 ms
-[18May2025 00:26:19.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.927s)! For help, type "help"
-[18May2025 00:26:19.580] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[18May2025 00:26:19.617] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
-[18May2025 00:26:19.620] [Server thread/WARN] [ModernFix/]: Dedicated server took 41.143 seconds to load
-[18May2025 00:27:31.627] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d76d0d2[id=<null>,name=kamushkarkir,properties={},legacy=false] (/100.112.77.102:59996) lost connection: Disconnected
-[18May2025 00:28:03.621] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a7f15a7[id=<null>,name=kamushkarkir,properties={},legacy=false] (/100.112.77.102:60014) lost connection: Disconnected
-[18May2025 00:28:18.424] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[18May2025 00:28:18.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:60036] logged in with entity id 158 at (4840.9611624148265, 89.8500000178814, 2653.520266813702)
-[18May2025 00:28:18.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
-[18May2025 00:28:20.009] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
-[18May2025 00:28:20.029] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
-[18May2025 00:28:20.032] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
-[18May2025 00:28:23.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved too quickly! -1841.4611624148265,56.249999982118595,-11.020266813702165
-[18May2025 00:28:34.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Creative Mode]
-[18May2025 00:28:36.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Spectator Mode]
-[18May2025 00:28:42.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Creative Mode]
-[18May2025 00:28:44.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Survival Mode]
-[18May2025 00:29:04.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Spectator Mode]
-[18May2025 00:31:58.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set the time to 1000]
-[18May2025 00:32:22.125] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/402, l='ServerLevel[world]', x=2975.89, y=138.00, z=2564.70] died, message: 'Villager was slain by Zombie'
-[18May2025 00:32:58.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/508, l='ServerLevel[world]', x=2921.30, y=137.00, z=2505.50] died, message: 'Butcher was slain by Zombie'
-[18May2025 00:35:06.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Teleported kamushkarkir to 0.500000, 90.000000, 0.500000]
-[18May2025 00:36:36.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Creative Mode]
-[18May2025 00:36:39.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Survival Mode]
-[18May2025 00:42:11.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=70, z=-224} BlockPos{x=-427, y=70, z=-223}
-[18May2025 00:52:39.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Stopped all 'ambient' sounds]
-[18May2025 00:59:32.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Ol' Betsy]
-[18May2025 01:07:32.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kamushkarkir> 11
-[18May2025 01:13:30.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1166, y=104, z=-1067} BlockPos{x=-1166, y=103, z=-1067}
-[18May2025 01:15:50.606] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
-[18May2025 01:17:52.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir was kicked for floating too long!
-[18May2025 01:17:52.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Flying is not enabled on this server
-[18May2025 01:17:52.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
-[18May2025 01:18:58.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:60472] logged in with entity id 12437 at (-1061.7671170759245, 113.16610926093821, -1061.584597931149)
-[18May2025 01:18:58.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
-[18May2025 01:19:02.803] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
-[18May2025 01:27:05.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [Spectral Guardian]
-[18May2025 01:34:19.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1112, y=118, z=-1069} BlockPos{x=-1110, y=119, z=-1068}
-[18May2025 01:34:19.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1110, y=118, z=-1068} BlockPos{x=-1110, y=119, z=-1068}
-[18May2025 01:39:36.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set the weather to clear]
-[18May2025 01:45:01.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
-[18May2025 01:52:24.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[18May2025 01:52:24.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: worldb<--[HERE]
-[18May2025 01:52:55.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the world border to 10000.0 block(s) wide
-[18May2025 01:53:38.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Super Creeps]
-[18May2025 01:55:37.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Disconnected
-[18May2025 01:55:37.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
-[18May2025 01:55:51.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:60839] logged in with entity id 22915 at (-2850.8189306666964, 86.0, -2852.0847477859716)
-[18May2025 01:55:51.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
-[18May2025 01:55:54.221] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
-[18May2025 02:10:30.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [Great minds think alike]
-[18May2025 02:14:44.847] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for kamushkarkir with unique ID a3537131-6d08-4b87-8972-54ea9b6af65d
-[18May2025 02:14:44.848] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2867 Y: 69 Z: -2885
-[18May2025 02:14:44.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir withered away
-[18May2025 02:14:44.865] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
-[18May2025 02:15:40.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [Here They Come]
-[18May2025 02:22:42.341] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for kamushkarkir with unique ID 7a92b7d6-3962-44c9-814c-b610e5d7162e
-[18May2025 02:22:42.342] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2838 Y: 87 Z: -2878
-[18May2025 02:22:42.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir withered away
-[18May2025 02:22:42.345] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
-[18May2025 02:24:27.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir was slain by Wither Skeleton
-[18May2025 02:24:27.532] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
-[18May2025 02:28:24.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Timed out
-[18May2025 02:28:24.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
-[18May2025 02:33:34.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:61216] logged in with entity id 72477 at (-2837.355554324415, 87.0, -2869.8163801745277)
-[18May2025 02:33:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
-[18May2025 02:33:35.146] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
-[18May2025 02:36:01.535] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for kamushkarkir with unique ID 4fd3f944-d181-427f-8c26-f3d016f0c05b
-[18May2025 02:36:01.537] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2838 Y: 79 Z: -2882
-[18May2025 02:36:01.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir was slain by Wither Skeleton
-[18May2025 02:36:01.544] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
-[18May2025 02:36:56.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Gave 1 [Ender Pearl] to kamushkarkir]
-[18May2025 02:37:00.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set the weather to clear]
-[18May2025 02:37:03.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [The Most Useful Key]
-[18May2025 02:37:03.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Quickly Applied]
-[18May2025 02:37:21.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [A Fast Comeback]
-[18May2025 02:42:21.027] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/73315, l='ServerLevel[world]', x=-2838.10, y=100.92, z=-2874.66] died: Dinnerbone was shot by kamushkarkir
-[18May2025 02:42:44.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/74114, l='ServerLevel[world]', x=-2840.70, y=106.01, z=-2874.16] died: Dinnerbone was burnt to a crisp whilst fighting kamushkarkir
-[18May2025 02:53:04.433] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for kamushkarkir with unique ID 464f0f27-3661-49fc-a090-ca6ff26277ba
-[18May2025 02:53:04.434] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2843 Y: 84 Z: -2891
-[18May2025 02:53:04.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir was slain by Wither Skeleton
-[18May2025 02:53:04.437] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
-[18May2025 02:55:06.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Timed out
-[18May2025 02:55:06.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
-[18May2025 02:58:08.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:61456] logged in with entity id 76030 at (-2839.792904857303, 88.0, -2886.885161495133)
-[18May2025 02:58:08.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
-[18May2025 02:58:15.861] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
-[18May2025 03:01:28.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Creative Mode]
-[18May2025 03:01:30.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Survival Mode]
-[18May2025 03:01:32.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Spectator Mode]
-[18May2025 03:01:59.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Survival Mode]
-[18May2025 03:02:01.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Spectator Mode]
-[18May2025 03:02:05.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Survival Mode]
-[18May2025 03:03:58.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/76575, l='ServerLevel[world]', x=-2858.70, y=91.01, z=-2879.27] died: Dinnerbone was shot by kamushkarkir
-[18May2025 03:04:59.877] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/76738, l='ServerLevel[world]', x=-2864.75, y=99.01, z=-2892.78] died: Dinnerbone was shot by Dinnerbone
-[18May2025 03:05:02.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/76100, l='ServerLevel[world]', x=-2865.10, y=99.01, z=-2895.14] died: Dinnerbone was shot by kamushkarkir
-[18May2025 03:06:32.683] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for kamushkarkir with unique ID 2c598421-65e5-48e0-9441-997862c653fc
-[18May2025 03:06:32.683] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2847 Y: 71 Z: -2875
-[18May2025 03:06:32.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir withered away whilst fighting Wither Skeleton
-[18May2025 03:06:32.686] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
-[18May2025 03:07:02.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Gave 1 [Ender Pearl] to kamushkarkir]
-[18May2025 03:17:08.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/77867, l='ServerLevel[world]', x=-2863.97, y=107.01, z=-2884.06] died: Dinnerbone was shot by kamushkarkir
-[18May2025 03:17:11.078] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/78605, l='ServerLevel[world]', x=-2864.66, y=107.01, z=-2885.70] died: Dinnerbone was shot by kamushkarkir
-[18May2025 03:17:27.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/78403, l='ServerLevel[world]', x=-2855.95, y=107.01, z=-2881.06] died: Dinnerbone was shot by kamushkarkir
-[18May2025 03:17:57.428] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/78855, l='ServerLevel[world]', x=-2864.03, y=107.01, z=-2885.70] died: Dinnerbone was shot by Dinnerbone
-[18May2025 03:18:05.643] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/78726, l='ServerLevel[world]', x=-2865.70, y=107.01, z=-2885.70] died: Dinnerbone was slain by kamushkarkir
-[18May2025 03:19:11.954] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
-[18May2025 03:20:49.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/78637, l='ServerLevel[world]', x=-2859.30, y=108.01, z=-2877.30] died: Dinnerbone was shot by kamushkarkir
-[18May2025 03:21:57.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/79326, l='ServerLevel[world]', x=-2858.43, y=123.01, z=-2879.08] died: Dinnerbone was slain by kamushkarkir
-[18May2025 03:27:31.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved wrongly!
-[18May2025 03:29:07.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved too quickly! 1.6784398527015583,-10.704334446500681,-1.0153511903990875
-[18May2025 03:31:08.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved too quickly! 0.17673901200669206,-10.973312106241139,-1.9914836895900407
-[18May2025 03:33:09.479] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for kamushkarkir with unique ID 7b3d20f3-c637-4216-b14f-d8cce9e68332
-[18May2025 03:33:09.479] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2836 Y: 100 Z: -2883
-[18May2025 03:33:09.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir was doomed to fall by Dinnerbone
-[18May2025 03:33:09.490] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
-[18May2025 03:33:33.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Gave 1 [Ender Pearl] to kamushkarkir]
-[18May2025 03:37:19.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/82062, l='ServerLevel[world]', x=-2836.30, y=183.01, z=-2893.30] died: Dinnerbone was shot by kamushkarkir
-[18May2025 03:37:50.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/80183, l='ServerLevel[world]', x=-2831.51, y=178.01, z=-2879.70] died: Dinnerbone was shot by kamushkarkir
-[18May2025 03:39:43.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/81339, l='ServerLevel[world]', x=-2842.70, y=155.01, z=-2866.98] died: Dinnerbone was shot by kamushkarkir
-[18May2025 03:51:12.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Ambush]
-[18May2025 04:00:35.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Spectator Mode]
-[18May2025 04:01:36.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Creative Mode]
-[18May2025 04:02:16.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Spectator Mode]
-[18May2025 04:02:20.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Creative Mode]
-[18May2025 04:02:22.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Survival Mode]
-[18May2025 04:02:39.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir was kicked for floating too long!
-[18May2025 04:02:39.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Flying is not enabled on this server
-[18May2025 04:02:39.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
-[18May2025 04:03:12.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[18May2025 04:03:12.781] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
-[18May2025 04:03:12.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[18May2025 04:03:12.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[18May2025 04:03:12.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[18May2025 04:03:12.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18May2025 04:03:12.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18May2025 04:03:12.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18May2025 04:03:12.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18May2025 04:03:12.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18May2025 04:03:12.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18May2025 04:03:12.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18May2025 04:03:13.477] [Server thread/INFO] [Framework/]: Unloading server configs...
-[18May2025 04:03:13.478] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[18May2025 04:26:44.645] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[18May2025 04:26:46.482] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
+[18May2025 04:26:46.571] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[18May2025 04:26:46.571] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
+[18May2025 04:26:46.667] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1620 advancements
+[18May2025 04:26:46.670] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[18May2025 04:26:46.671] [main/INFO] [Dungeon Crawl/]: Loading data...
+[18May2025 04:26:46.957] [main/INFO] [Dungeon Crawl/]: Done.
+[18May2025 04:26:46.958] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[18May2025 04:26:46.966] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[18May2025 04:26:46.969] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[18May2025 04:26:46.970] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
+[18May2025 04:26:47.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[18May2025 04:26:47.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18May2025 04:26:47.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18May2025 04:26:47.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18May2025 04:26:47.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18May2025 04:26:47.932] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18May2025 04:26:48.011] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18May2025 04:26:48.011] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18May2025 04:26:48.012] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18May2025 04:26:48.012] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18May2025 04:26:48.029] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[18May2025 04:26:48.031] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[18May2025 04:26:48.083] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[18May2025 04:26:48.083] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[18May2025 04:26:48.083] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[18May2025 04:26:48.084] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[18May2025 04:26:48.084] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[18May2025 04:26:48.085] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[18May2025 04:26:48.085] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[18May2025 04:26:48.086] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[18May2025 04:26:48.086] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[18May2025 04:26:48.086] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[18May2025 04:26:48.088] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
+[18May2025 04:26:48.094] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
+[18May2025 04:26:48.193] [Server thread/INFO] [spark/]: Starting background profiler...
+[18May2025 04:26:48.588] [Server thread/INFO] [Framework/]: Loading server configs...
+[18May2025 04:26:48.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18May2025 04:26:49.257] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[18May2025 04:26:49.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18May2025 04:26:49.369] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 111 ms
+[18May2025 04:26:49.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.346s)! For help, type "help"
+[18May2025 04:26:49.405] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18May2025 04:26:49.445] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
+[18May2025 04:26:49.448] [Server thread/WARN] [ModernFix/]: Dedicated server took 26.885 seconds to load
+[18May2025 04:27:33.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18May2025 04:27:33.304] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[18May2025 04:27:33.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18May2025 04:27:33.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18May2025 04:27:33.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18May2025 04:27:33.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18May2025 04:27:33.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18May2025 04:27:33.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18May2025 04:27:33.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18May2025 04:27:33.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18May2025 04:27:33.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18May2025 04:27:33.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18May2025 04:27:33.480] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18May2025 04:27:33.481] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
