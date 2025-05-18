@@ -404,3 +404,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 02:14:44.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir withered away
 [18May2025 02:14:44.865] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
 [18May2025 02:15:40.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [Here They Come]
+[18May2025 02:22:42.341] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for kamushkarkir with unique ID 7a92b7d6-3962-44c9-814c-b610e5d7162e
+[18May2025 02:22:42.342] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2838 Y: 87 Z: -2878
+[18May2025 02:22:42.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir withered away
+[18May2025 02:22:42.345] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
+[18May2025 02:24:27.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir was slain by Wither Skeleton
+[18May2025 02:24:27.532] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
+[18May2025 02:28:24.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Timed out
+[18May2025 02:28:24.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[18May2025 02:33:34.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:61216] logged in with entity id 72477 at (-2837.355554324415, 87.0, -2869.8163801745277)
+[18May2025 02:33:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
+[18May2025 02:33:35.146] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
+[18May2025 02:36:01.535] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for kamushkarkir with unique ID 4fd3f944-d181-427f-8c26-f3d016f0c05b
+[18May2025 02:36:01.537] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2838 Y: 79 Z: -2882
+[18May2025 02:36:01.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir was slain by Wither Skeleton
+[18May2025 02:36:01.544] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
+[18May2025 02:36:56.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Gave 1 [Ender Pearl] to kamushkarkir]
+[18May2025 02:37:00.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set the weather to clear]
+[18May2025 02:37:03.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [The Most Useful Key]
+[18May2025 02:37:03.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Quickly Applied]
+[18May2025 02:37:21.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [A Fast Comeback]
+[18May2025 02:42:21.027] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/73315, l='ServerLevel[world]', x=-2838.10, y=100.92, z=-2874.66] died: Dinnerbone was shot by kamushkarkir
