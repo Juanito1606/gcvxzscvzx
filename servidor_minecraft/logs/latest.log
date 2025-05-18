@@ -477,3 +477,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 04:02:39.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir was kicked for floating too long!
 [18May2025 04:02:39.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Flying is not enabled on this server
 [18May2025 04:02:39.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[18May2025 04:03:12.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18May2025 04:03:12.781] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[18May2025 04:03:12.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18May2025 04:03:12.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18May2025 04:03:12.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18May2025 04:03:12.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18May2025 04:03:12.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18May2025 04:03:12.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18May2025 04:03:12.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18May2025 04:03:12.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18May2025 04:03:12.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18May2025 04:03:12.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18May2025 04:03:13.477] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18May2025 04:03:13.478] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
