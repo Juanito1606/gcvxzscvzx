@@ -373,3 +373,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 00:36:36.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Creative Mode]
 [18May2025 00:36:39.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Survival Mode]
 [18May2025 00:42:11.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-427, y=70, z=-224} BlockPos{x=-427, y=70, z=-223}
+[18May2025 00:52:39.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Stopped all 'ambient' sounds]
+[18May2025 00:59:32.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has made the advancement [Ol' Betsy]
+[18May2025 01:07:32.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kamushkarkir> 11
+[18May2025 01:13:30.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1166, y=104, z=-1067} BlockPos{x=-1166, y=103, z=-1067}
+[18May2025 01:15:50.606] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
+[18May2025 01:17:52.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir was kicked for floating too long!
+[18May2025 01:17:52.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir lost connection: Flying is not enabled on this server
+[18May2025 01:17:52.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir left the game
+[18May2025 01:18:58.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kamushkarkir[/100.112.77.102:60472] logged in with entity id 12437 at (-1061.7671170759245, 113.16610926093821, -1061.584597931149)
+[18May2025 01:18:58.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir joined the game
+[18May2025 01:19:02.803] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] kamushkarkir: protocol version: 2.0
+[18May2025 01:27:05.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir has reached the goal [Spectral Guardian]
+[18May2025 01:34:19.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1112, y=118, z=-1069} BlockPos{x=-1110, y=119, z=-1068}
+[18May2025 01:34:19.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1110, y=118, z=-1068} BlockPos{x=-1110, y=119, z=-1068}
+[18May2025 01:39:36.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set the weather to clear]
+[18May2025 01:45:01.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
