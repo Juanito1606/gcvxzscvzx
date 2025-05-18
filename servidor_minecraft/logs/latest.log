@@ -441,3 +441,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 03:01:59.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Survival Mode]
 [18May2025 03:02:01.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Spectator Mode]
 [18May2025 03:02:05.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Set own game mode to Survival Mode]
+[18May2025 03:03:58.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/76575, l='ServerLevel[world]', x=-2858.70, y=91.01, z=-2879.27] died: Dinnerbone was shot by kamushkarkir
+[18May2025 03:04:59.877] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/76738, l='ServerLevel[world]', x=-2864.75, y=99.01, z=-2892.78] died: Dinnerbone was shot by Dinnerbone
+[18May2025 03:05:02.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/76100, l='ServerLevel[world]', x=-2865.10, y=99.01, z=-2895.14] died: Dinnerbone was shot by kamushkarkir
+[18May2025 03:06:32.683] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for kamushkarkir with unique ID 2c598421-65e5-48e0-9441-997862c653fc
+[18May2025 03:06:32.683] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2847 Y: 71 Z: -2875
+[18May2025 03:06:32.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir withered away whilst fighting Wither Skeleton
+[18May2025 03:06:32.686] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
+[18May2025 03:07:02.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Gave 1 [Ender Pearl] to kamushkarkir]
