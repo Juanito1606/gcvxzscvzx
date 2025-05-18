@@ -460,3 +460,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 03:27:31.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved wrongly!
 [18May2025 03:29:07.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved too quickly! 1.6784398527015583,-10.704334446500681,-1.0153511903990875
 [18May2025 03:31:08.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kamushkarkir moved too quickly! 0.17673901200669206,-10.973312106241139,-1.9914836895900407
+[18May2025 03:33:09.479] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for kamushkarkir with unique ID 7b3d20f3-c637-4216-b14f-d8cce9e68332
+[18May2025 03:33:09.479] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2836 Y: 100 Z: -2883
+[18May2025 03:33:09.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kamushkarkir was doomed to fall by Dinnerbone
+[18May2025 03:33:09.490] [Server thread/INFO] [tombstone/]: The player kamushkarkir has successfully been saved
+[18May2025 03:33:33.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kamushkarkir: Gave 1 [Ender Pearl] to kamushkarkir]
+[18May2025 03:37:19.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/82062, l='ServerLevel[world]', x=-2836.30, y=183.01, z=-2893.30] died: Dinnerbone was shot by kamushkarkir
+[18May2025 03:37:50.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/80183, l='ServerLevel[world]', x=-2831.51, y=178.01, z=-2879.70] died: Dinnerbone was shot by kamushkarkir
+[18May2025 03:39:43.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/81339, l='ServerLevel[world]', x=-2842.70, y=155.01, z=-2866.98] died: Dinnerbone was shot by kamushkarkir
